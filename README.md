@@ -38,9 +38,7 @@ accuracy = markov_model.predict(test)
 ### Trajectory Modeling - LSTM
 Our model converts a trajectory to an embedded vector represetnation which is then processed thorugh an LSTM model.  The output of the LSTM goes through a Dense layer with softmax to assign the probabilities of each next possible URL.  
 
-
-keras model
-keras.fit
+![LSTM model](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/LSTM_hiddim30embdim30.png)
 
 ### Conditional Trajectory Modeling - LSTM
 To expand upon our intial model, we want to understand how the choices and successful and unsuccessful students differ.  We process the embedding and LSTM as before.  In te conditional model a second embedding is also learned that provides a vector of weights to multiply against the LSTM output.  This acts as a mask like operation, effectively upweighting and down weighting different parts of information from teh possible next URL choice.  The output of this multiplication is then past through a Dense layer with softmax as before.  picture
