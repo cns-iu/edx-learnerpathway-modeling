@@ -54,7 +54,7 @@ To expand upon our intial model, we want to understand if the choices of success
 
 ## File details
 
-[Data Parsing for models](https://github.com/mginda/edx-learnerpathway-modeling/data_parsing.py)
+[Data Parsing for models](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/data_parsing.py)
 [LSTM model](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/learning_pathways.ipynb)
 [Baseline model](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/baseline_model.ipynb)
 [K-medoid model](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/clustering_trajectories.ipynb)
