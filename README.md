@@ -9,6 +9,27 @@ git clone https://github.com/mginda/edx-learnerpathway-modeling.git
 ### Python imports
 ![imports](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/imports.png)
 
+### Load data
+```python
+def get_trajectory(df):
+    order = [0]
+    for url in df['order']:
+        if url != order[-1]:
+            order.append(url)
+    order.append(0)
+    return order
+
+def load_trajectories(folder_path):
+	trajectories = []
+
+	for fname in glob(folder_path + '/*.csv'):
+	    df = pd.read_csv(fname)
+	    trajectories.append(df)
+	    
+	trajectories = pd.concat(trajectories)
+	return trajectories.groupby('user_id').apply(get_trajectory)
+```
+
   
 ## Model Overview
 
