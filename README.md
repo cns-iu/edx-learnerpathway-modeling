@@ -9,7 +9,8 @@ git clone https://github.com/mginda/edx-learnerpathway-modeling.git
 ### Python imports
 ![imports](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/imports.png)
 
-### Load data
+### Load data helper file
+The ```data_parsing.py``` reads in multiple learner log data files, and for each student creates a list of numerical id's  for course material URLs.
 ```python
 def get_trajectory(df):
     order = [0]
