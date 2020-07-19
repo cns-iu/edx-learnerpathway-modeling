@@ -6,6 +6,11 @@ To clone the repository:
 git clone https://github.com/mginda/edx-learnerpathway-modeling.git
 
 ```
+## Necessary software and libraries
+- Python 3.1 or higher
+- Python libraries:
+star:
+- pandas
 
 ## Model Overviews
 
