@@ -58,7 +58,7 @@ We then use a k-medoid scheme to cluster these vectors for various values of k. 
 ![sample_variance](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/cluster_var_sample.png)
 
 ### Baseline Model
-For the baseline model we look at sequences of URLs within a given trajectory.  At its simplest level we can make predictions on the mostly likely next URL based only on the current URL only.  This is a Markov model with no hidden state.
+For the baseline model we look at sequences of URLs within a given trajectory.  At its simplest level we can make predictions on the most likely next URL based only on the current URL only.  This is a Markov model with no hidden state.
 
 ![baselineModel](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/baseline_model.png)
 
