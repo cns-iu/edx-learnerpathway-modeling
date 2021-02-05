@@ -6,9 +6,6 @@ To clone the repository:
 git clone https://github.com/mginda/edx-learnerpathway-modeling.git
 
 ```
-### Python imports
-![imports](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/imports.png)
-
 ### Load data helper file
 The ```data_parsing.py``` does two things.
 1. The ```get_trajectory()``` function binds an ascending order number to course material URLs into a list.  The order number is aligned with the order of the course design.  The order number is returned.
@@ -50,31 +47,17 @@ LSTM models are one of the most popular variants of Recurrent Neural Networks (R
 ### Clustering
 For the purpose of clustering only, we vectorize the counts of transitions between URLs for each trajectory.  This is equivalent to bi-grams in natural language processing (NLP).  We do not normalize the counts, as their raw magnitudes capture information on how different students go back and forth through course materials.
 
-![countVectorizer](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/cluster_CountVectorizer.png)
-
 We then use a k-medoid scheme to cluster these vectors for various values of k.  We use the elbow method on inter-cluster variance to determine k = 4 is the most natural clustering.
-
-![cluster_function](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/clustering_function.png)
-![sample_variance](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/cluster_var_sample.png)
 
 ### Baseline Model
 For the baseline model we look at sequences of URLs within a given trajectory.  At its simplest level we can make predictions on the most likely next URL based only on the current URL only.  This is a Markov model with no hidden state.
-
-![baselineModel](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/baseline_model.png)
-
 This results in 0.49 accuracy.  We also explored using a longer history of URLs to predict the next URL.  Without a smoothing parameter the highest accuracy was achieved with 3 element histories i.e. URL sequence of length 3, which moved accuracy to 0.54.
-
-![baseline_acc](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/baseline_acc_calc.png)
 
 ### Trajectory LSTM Model
 Our model converts a trajectory to an embedded vector representation which is then processed through an LSTM model.  The output of the LSTM goes through a Dense layer with softmax to assign the probabilities of each next possible URL.  
 
-![LSTM model](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/LSTM_hiddim30embdim30.png)
-
 ### Conditional Trajectory LSTM Model
 To expand upon our intial model, we want to understand if the choices of successful and non-successful learners differ.  We process the embedding and LSTM as before.  In the conditional model a second embedding is also learned that provides a vector of weights to multiply against the LSTM output.  This acts as a mask like operation, effectively upweighting and down weighting different parts of information from the possible next URL choice.  The output of this multiplication is then past through a Dense layer with softmax as before.
-
-![CondLSTM](https://github.com/mginda/edx-learnerpathway-modeling/blob/python/images/CondLSTM_hiddim30embdim30.png)
 
 ## File details
 
