@@ -1,4 +1,4 @@
-# Learner pathway modeling information for MIT xPRO Additive Manufacturing and Leaders at All Levels courses
+# Applications of unsupervised learning on learner pathways: Using long short-term memory networks to model learner pathways
 
 To clone the repository:
 
