@@ -38,7 +38,7 @@ For the purpose of clustering only, vectorization of the counts of transitions b
 
 The k-medoid algorithm is used to cluster these vectors for various values of k.  The elbow method is used on inter-cluster variance to determine k = 4 is the most natural clustering.
 
-View analysis [here](https://github.com/mginda/edx-learnerpathway-modeling/blob/main/clustering_analysis/trajectory_clustering.ipynb)
+View analysis [here](https://github.com/cns-iu/edx-learnerpathway-modeling/tree/master/clustering_analysis)
 
 ### Baseline Model
 For the baseline model observation of sequences of URLs within a given trajectory.  At its simplest level predictions are made on the most likely next URL based only on the current URL only.  This is a Markov model with no hidden state.
