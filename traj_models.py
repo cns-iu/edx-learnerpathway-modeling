@@ -28,7 +28,7 @@ class Base_model ():
     traj_to_edge_csv(proposed_traj, 'traj_fname.csv')
 
 class LSTM_model (Base_model):
-  def __init__(self, number_of_URL, optimizer=Adam(learning_rate=0.001), num_hidden=37, embedding_size=30, simple=True):
+  def __init__(self, number_of_URL, optimizer=Adam(learning_rate=0.001), num_hidden=30, embedding_size=37, simple=True):
     super(self.__class__, self).__init__
     self.num_hidden = num_hidden
     self.embedding_size = embedding_size
@@ -55,7 +55,7 @@ class LSTM_model (Base_model):
       callbacks_list = [checkpoint]
     else:
       callbacks_list = None
-    model.fit_generator(train_generator(), 
+    self.model.fit_generator(train_generator(), 
                         validation_data=valid_generator(),
                         callbacks=callbacks_list,
                         steps_per_epoch = data.n_train, #batch size is inherently 1 via generator

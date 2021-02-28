@@ -21,16 +21,17 @@ class DataGenerator ():
       incoming_traj.append(np.array(traj[:-1]).reshape(1,-1))
       outgoing_traj.append(np.array(traj[1:]).reshape(-1,1))
 
-  def data_generator(start, stop):
-    while True:
-      for i in range(start, stop):        
-          x = incoming_traj[self.index[i]].reshape(1,-1)
-          s = np.broadcast_to(self.status[self.index[i]], x.shape) ## do I set self.status?
-          y = outgoing_traj[self.index[i]].reshape(1,-1)
-          if use_status:
-              yield [x,s],y
-          else:
-              yield x,y
+
+    def data_generator(start, stop):
+      while True:
+        for i in range(start, stop):        
+            x = incoming_traj[self.index[i]].reshape(1,-1)
+            s = np.broadcast_to(self.status[self.index[i]], x.shape) ## do I set self.status?
+            y = outgoing_traj[self.index[i]].reshape(1,-1)
+            if use_status:
+                yield [x,s],y
+            else:
+                yield x,y
 
     train_generator = partial(data_generator, 0, self.n_train)
     valid_generator = partial(data_generator, self.n_train, self.n_train+self.n_valid)
