@@ -41,14 +41,11 @@ The k-medoid algorithm is used to cluster these vectors for various values of k.
 View analysis [here](https://github.com/cns-iu/edx-learnerpathway-modeling/tree/master/clustering_analysis)
 
 ### Baseline Model
-For the baseline model observation of sequences of URLs within a given trajectory.  At its simplest level predictions are made on the most likely next URL based only on the current URL only.  This is a Markov model with no hidden state.
-This results in 0.49 accuracy.  A longer history of URLs was explored to predict the next URL.  Without a smoothing parameter the highest accuracy was achieved with 3 element histories i.e. URL sequence of length 3, which moved accuracy to 0.54.
+For the baseline model observation of sequences of URLs within a given trajectory.  At its simplest level predictions are made on the most likely next URL based only on the current URL only.  This is a Markov model with no hidden state. A longer history of URLs was explored to predict the next URL.  Without a smoothing parameter the highest accuracy was achieved with 3 element histories.
 
 ### Trajectory LSTM Model
 The model converts a trajectory to an embedded vector representation which is then processed through an LSTM model.  The output of the LSTM goes through a Dense layer with Softmax to assign the probabilities of each next possible URL.  
 
-### Conditional Trajectory LSTM Model
-To expand upon the intial model, and attempt was made to understand if the choices of successful and non-successful learners differ. The embedding and LSTM are processed as before.  In the conditional model a second embedding is also learned that provides a vector of weights to multiply against the LSTM output.  This acts as a mask like operation, effectively upweighting and down weighting different parts of information from the possible next URL choice.  The output of this multiplication is then past through a Dense layer with softmax as before.
 
 
 ### Run with the following
