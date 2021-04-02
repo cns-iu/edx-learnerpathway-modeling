@@ -1,0 +1,753 @@
+id,x,y,courseID,mod_type,order,stds,count,chpModLabel,seqModLabel,In-Degree,Out-Degree,Degree
+401ee1f6f3684be7b6124490f34adc5a,1594.1262f,1048.7539f,MITxPRO+AMxB+1T2018,html,1,907,2300,"Entrance Survey (5 min, required)",Entrance Survey-Html,16,14,30
+27bf430c96cb4d8da7368c4697de187b,1580.7435f,1018.63403f,MITxPRO+AMxB+1T2018,html,2,922,1853,"Pre-Assessment (10 min, required)",Pre-Assessment-Html,10,8,18
+0fec97a46b71456d9d9037e5edac7bb0,1598.8334f,1135.2795f,MITxPRO+AMxB+1T2018,html,3,26,29,"Pre-Assessment (10 min, required)",Pre-Assessment-Html,2,2,4
+9b9fc7fd30954d7d9ad7d8f8e1cc11d8,1549.503f,1036.6296f,MITxPRO+AMxB+1T2018,problem,4,930,5195,"Pre-Assessment (10 min, required)",Pre-Assessment Completion Confirmation,5,7,12
+04d85100616943f8a3d2b084f403ba5f,1505.2043f,1015.3352f,MITxPRO+AMxB+1T2018,html,5,928,2750,Get Started (25 min),Welcome-Html,19,14,33
+d538c2a9c6004cc3b62a2514ff7d24f5,1428.7627f,978.5307f,MITxPRO+AMxB+1T2018,html,6,925,5165,Get Started (25 min),Schedule-Html,109,97,206
+8f607acba97e43d5b0426a4cccc4e61f,1457.319f,1055.2164f,MITxPRO+AMxB+1T2018,html,7,84,113,Get Started (25 min),Schedule-Html,4,3,7
+ea676035d8d84252b7c2c117a74dfe5d,1362.5731f,1000.16626f,MITxPRO+AMxB+1T2018,html,8,916,2314,Get Started (25 min),Discussion Forum-Html,13,18,31
+fdccb644786547c5893474584cdfd58b,1323.4915f,1011.3355f,MITxPRO+AMxB+1T2018,html,9,913,2523,Get Started (25 min),Discussion Etiquette-Html,5,6,11
+53e13f644d1f4c73ba7f5bfd8020e71f,1291.6849f,1022.1271f,MITxPRO+AMxB+1T2018,html,10,915,2664,Get Started (25 min),Tell Us About Yourself-IFrame Tool,8,11,19
+2f6febb9f2514c06827aa6a4bfe1e69d,1252.2881f,1039.4254f,MITxPRO+AMxB+1T2018,html,11,915,2955,Get Started (25 min),MIT Instructors-Html,49,17,66
+44acee2074d5456593cfdab9b680dcab,890.0381f,1091.7378f,MITxPRO+AMxB+1T2018,html,12,7,8,Get Started (25 min),MIT Instructors-Html,1,1,2
+7e3aba021b714e3180b14422eaf7cacb,-747.6559f,2164.5066f,MITxPRO+AMxB+1T2018,html,13,3,3,Get Started (25 min),MIT Instructors-Html,0,0,0
+f17dc8f749c043d78ae4dfe383e55009,-2062.1084f,318.38113f,MITxPRO+AMxB+1T2018,html,14,3,4,Get Started (25 min),MIT Instructors-Html,0,0,0
+a0077e8aad874abba1a1ec5c20ca947b,-2012.4753f,-854.1555f,MITxPRO+AMxB+1T2018,html,15,1,1,Get Started (25 min),MIT Instructors-Html,0,0,0
+7bb3394632054742b3fff216a77b015e,-734.5486f,2197.8376f,MITxPRO+AMxB+1T2018,html,16,4,4,Get Started (25 min),MIT Instructors-Html,0,0,0
+08823b78df0e4a3eb4c35cb2b838dee3,-1895.0978f,-493.4822f,MITxPRO+AMxB+1T2018,html,17,2,2,Get Started (25 min),MIT Instructors-Html,0,0,0
+c3c0f88fff1f4523b144a41a6c2dbcd6,-689.00635f,-2127.295f,MITxPRO+AMxB+1T2018,html,18,1,1,Get Started (25 min),MIT Instructors-Html,0,0,0
+3cce707300cc4bb99e13edcd32209318,2150.6782f,500.75342f,MITxPRO+AMxB+1T2018,html,19,5,6,Get Started (25 min),MIT Instructors-Html,0,0,0
+089719b517f043f5b39636578e7ee001,1340.1127f,702.4627f,MITxPRO+AMxB+1T2018,html,20,24,44,Get Started (25 min),MIT Instructors-Html,3,3,6
+a67e937f9f1941a9bb6052316e2f2fc4,1212.0731f,1051.4388f,MITxPRO+AMxB+1T2018,html,21,913,2394,Get Started (25 min),MIT Course Assistants-Html,13,12,25
+2349ef7ca9ce436caad6190a30656821,-2175.0642f,132.66176f,MITxPRO+AMxB+1T2018,html,22,3,4,Get Started (25 min),MIT Course Assistants-Html,0,0,0
+5e49b3b1846c46a188f097e6520c706a,-1931.389f,1561.192f,MITxPRO+AMxB+1T2018,html,23,0,0,Get Started (25 min),MIT Course Assistants-Html,0,0,0
+2a112bc1a1e048129e8e68e170e39248,-2181.5466f,153.2446f,MITxPRO+AMxB+1T2018,html,24,3,4,Get Started (25 min),MIT Course Assistants-Html,0,0,0
+7c052992ccd9437b9b017f4a234bb68c,-2157.685f,503.03604f,MITxPRO+AMxB+1T2018,html,25,0,0,Get Started (25 min),MIT Course Assistants-Html,0,0,0
+3bb9151bb02b44c1ab2befefde55671a,2156.6323f,451.77716f,MITxPRO+AMxB+1T2018,html,26,1,1,Get Started (25 min),MIT Course Assistants-Html,0,0,0
+918870b390684763bcf0b9c3378c6996,2341.113f,343.01328f,MITxPRO+AMxB+1T2018,html,27,3,12,Get Started (25 min),MIT Course Assistants-Html,1,1,2
+e42dc56d1f8d46ef902e3d38a93e0324,1180.1196f,1065.669f,MITxPRO+AMxB+1T2018,html,28,912,2435,Get Started (25 min),Boeing Course Assistants-Html,11,10,21
+63ef1fedf15b403ca346c0f4fdc8f5f0,870.34296f,960.68823f,MITxPRO+AMxB+1T2018,html,29,17,35,Get Started (25 min),Boeing Course Assistants-Html,2,2,4
+2e1dcff64f8741438099a3b28ba6c42d,1145.2087f,1084.8075f,MITxPRO+AMxB+1T2018,html,30,912,4170,Get Started (25 min),MIT Content Development Team-Html,15,21,36
+c140d98e51f54581a920893152b0f146,-1571.5526f,1810.1288f,MITxPRO+AMxB+1T2018,html,31,2,5,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+25021407d2a44c0fa46f4da39b61fe4f,-2155.8958f,607.0869f,MITxPRO+AMxB+1T2018,html,32,2,2,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+b2b776cf636d43d6aa8a52e423152e95,2134.049f,551.33234f,MITxPRO+AMxB+1T2018,html,33,4,8,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+e1ff89042b1e4cadb4f35e7242eaa6fb,-2096.8723f,425.92313f,MITxPRO+AMxB+1T2018,html,34,2,2,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+d2dbdeb207154c9ea7d8352623a66120,-2070.5007f,-708.49695f,MITxPRO+AMxB+1T2018,html,35,0,0,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+31c64d65a2a64134a5c3d04a58fea33d,1252.5759f,-1768.6469f,MITxPRO+AMxB+1T2018,html,36,1,2,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+15f09ebf2d5a45c092b05b8bd0cd7eca,2083.841f,714.6901f,MITxPRO+AMxB+1T2018,html,37,1,1,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+8357d3333918468189fd75d0c4a4efea,-1350.2896f,-1942.3717f,MITxPRO+AMxB+1T2018,html,38,3,3,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+2c1571ccf4ea48f190dede924d64978a,-1840.9948f,-1431.6681f,MITxPRO+AMxB+1T2018,html,39,3,4,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+1b1d901e57774ed4aac7ad952c9bb03d,-1692.0028f,1539.8129f,MITxPRO+AMxB+1T2018,html,40,7,8,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+1a49b1a14dc74ea4a854a58957a1ff70,-1149.6349f,-2018.265f,MITxPRO+AMxB+1T2018,html,41,3,4,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+2e3b229ed3c6436dbb293d0bede84f69,1966.078f,-987.7039f,MITxPRO+AMxB+1T2018,html,42,7,11,Get Started (25 min),MIT Content Development Team-Html,0,0,0
+900887df98e3499f8fd3ca09e1e84d3a,1121.4802f,1049.4805f,MITxPRO+AMxB+1T2018,html,43,299,1326,Get Started (25 min),Industry Experts-Html,12,13,25
+5769eefe272745138fb9673656879d27,2125.0815f,626.257f,MITxPRO+AMxB+1T2018,html,44,2,2,Get Started (25 min),Industry Experts-Html,0,0,0
+8e1e4a26d798445eb4f2208dbbe4c304,-2033.9934f,1421.1215f,MITxPRO+AMxB+1T2018,html,45,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+c26a191d2d854bc08f0bb2d00bddf949,1989.6506f,862.50757f,MITxPRO+AMxB+1T2018,html,46,2,2,Get Started (25 min),Industry Experts-Html,0,0,0
+25a124a430454bd69482e68f5986c640,-1795.6635f,1478.9634f,MITxPRO+AMxB+1T2018,html,47,2,2,Get Started (25 min),Industry Experts-Html,0,0,0
+7b686383e2454b26ae0a0ba10b69e06c,664.0569f,-1574.3411f,MITxPRO+AMxB+1T2018,html,48,2,2,Get Started (25 min),Industry Experts-Html,0,0,0
+b51078e21eba44668c93e67fe7da4a5d,-2218.0994f,82.193375f,MITxPRO+AMxB+1T2018,html,49,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+15e0176049e845beb8ac349ecf13d64c,-2007.5659f,1448.731f,MITxPRO+AMxB+1T2018,html,50,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+8b07dde95c5549ebbfa523a622a8e25c,-2020.5428f,-815.9023f,MITxPRO+AMxB+1T2018,html,51,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+b23733f5ccd245ed94abb5c5be18c527,2227.735f,26.794243f,MITxPRO+AMxB+1T2018,html,52,2,9,Get Started (25 min),Industry Experts-Html,0,0,0
+1e0eba50184b4098912c35d9442fc4c7,-2018.136f,-886.03546f,MITxPRO+AMxB+1T2018,html,53,2,2,Get Started (25 min),Industry Experts-Html,0,0,0
+5ff13db63251443ab80c02b58c0b485f,1968.9221f,916.59674f,MITxPRO+AMxB+1T2018,html,54,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+c5bda766147d4384a2ffeb98f2156679,752.9342f,-1333.5542f,MITxPRO+AMxB+1T2018,html,55,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+e5ccaa6343884bf8a982b312206d099b,-1910.7069f,-428.7391f,MITxPRO+AMxB+1T2018,html,56,3,4,Get Started (25 min),Industry Experts-Html,0,0,0
+620b2b987e224746bcabaf23c62d77e9,-1939.3867f,-873.94f,MITxPRO+AMxB+1T2018,html,57,1,1,Get Started (25 min),Industry Experts-Html,0,0,0
+c082eaa9c06548149a3c78284864b030,1648.6499f,-1391.8447f,MITxPRO+AMxB+1T2018,html,58,5,5,Get Started (25 min),Industry Experts-Html,0,0,0
+2fd34d2845b4497d8b01df1e609c7a6d,1916.662f,-1049.244f,MITxPRO+AMxB+1T2018,html,59,8,9,Get Started (25 min),Industry Experts-Html,0,0,0
+b54b3276058d446d9172bb4935fd58be,-948.5825f,-141.56126f,MITxPRO+AMxB+1T2018,html,60,12,20,Get Started (25 min),Industry Experts-Html,1,0,1
+5bdb6e60ab5c477f9244243bacb6c984,1076.7797f,1097.8339f,MITxPRO+AMxB+1T2018,html,61,924,4321,Get Started (25 min),Grading and Completion Criteria-Html,109,86,195
+9c375fe94f4a47fb8074dc6870cf8820,1202.1497f,1368.436f,MITxPRO+AMxB+1T2018,html,62,917,3245,Get Started (25 min),Academic Integrity-Html,6,15,21
+20c18c18d1424607bd03030afc0dabc9,1211.3962f,1410.0911f,MITxPRO+AMxB+1T2018,html,63,916,3366,Get Started (25 min),Certificate Information and CEUs-Html,5,17,22
+fe15037ed0db47ee8afde8f7847b94e6,1173.5608f,1411.6102f,MITxPRO+AMxB+1T2018,html,64,915,1703,Get Started (25 min),Learning Objectives-Html,6,11,17
+f152314aca7a42a9a2e4d5ef6086c76e,1188.7949f,1439.6266f,MITxPRO+AMxB+1T2018,html,65,912,2745,Get Started (25 min),Pedagogy-Html,4,7,11
+2c91f40c1d484adbbe41b43c1dd57fce,1151.2268f,1461.0505f,MITxPRO+AMxB+1T2018,html,66,912,2904,Get Started (25 min),Academic Integrity and Rules of Conduct-Html,10,7,17
+2060d250adb14c9eb7e7957c563678f0,1160.731f,1494.9637f,MITxPRO+AMxB+1T2018,html,67,909,2921,Get Started (25 min),Disclaimer-Html,7,17,24
+2bd1769f30ce460b8cf38f3b71207d38,1374.2532f,1845.423f,MITxPRO+AMxB+1T2018,html,68,913,4006,Week 1: Introduction to Additive Manufacturing (3 hrs),Foundations of Additive Manufacturing-Html,45,29,74
+b18bcca1d2984ccca2bbab4c41e85de5,1308.4912f,1832.3956f,MITxPRO+AMxB+1T2018,video,69,894,6949,Week 1: Introduction to Additive Manufacturing (3 hrs),Foundations of Additive Manufacturing-Foundations of Additive Manufacturing,11,11,22
+4d62865512bb40568e055a38622db441,1423.5253f,1682.1826f,MITxPRO+AMxB+1T2018,html,70,34,53,Week 1: Introduction to Additive Manufacturing (3 hrs),Foundations of Additive Manufacturing-Html,3,4,7
+7450b070eb784ee9a9e597d1e0880de2,1357.1298f,1733.0881f,MITxPRO+AMxB+1T2018,html,71,58,92,Week 1: Introduction to Additive Manufacturing (3 hrs),Foundations of Additive Manufacturing-Html,6,4,10
+3763b9f526ae44f2ac2ac49749c15661,1349.5096f,1903.626f,MITxPRO+AMxB+1T2018,html,72,916,4165,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Html,47,39,86
+b10ef23438f9466882d17e3f0abd0149,1435.7793f,1882.5302f,MITxPRO+AMxB+1T2018,video,73,891,7807,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Defining Additive Manufacturing ,15,14,29
+c7a622c4d84241c595bc384162598ed1,1746.4723f,1725.5116f,MITxPRO+AMxB+1T2018,html,74,19,21,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Html,2,1,3
+a137964dcca34365ba31a7563531e07b,1496.1228f,1871.5288f,MITxPRO+AMxB+1T2018,problem,75,917,4146,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 1,9,10,19
+5b7be604e0a24022b6e4c88a2391e099,1781.092f,1786.4861f,MITxPRO+AMxB+1T2018,html,76,21,23,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Html,2,3,5
+5fa68b182e974d6b82927d21dd4e4f9a,1545.9696f,1873.4458f,MITxPRO+AMxB+1T2018,problem,77,914,3168,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 2,12,9,21
+b0a012fae6fe4eb0af63473d516476b7,1587.9194f,1886.2288f,MITxPRO+AMxB+1T2018,problem,78,914,3084,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 3,8,7,15
+4be29d7cb0e4400887b4848365b47a4d,1601.8695f,1926.3433f,MITxPRO+AMxB+1T2018,problem,79,913,2973,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 4,7,8,15
+8288c793632d4a81a50ef5e13bf8911c,1557.7769f,1940.1195f,MITxPRO+AMxB+1T2018,problem,80,913,2962,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 5,7,7,14
+083e170a98cc47909270dde338cffbff,1506.9889f,1933.5708f,MITxPRO+AMxB+1T2018,problem,81,917,3041,Week 1: Introduction to Additive Manufacturing (3 hrs),Defining Additive Manufacturing-Question 6,9,10,19
+043d02d4e89541cdb2c73ca0d2eca377,1261.0155f,1990.3232f,MITxPRO+AMxB+1T2018,html,82,917,5016,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Html,43,40,83
+1ee01257a4174216a0bf6d64ad67decf,1350.6698f,2010.7301f,MITxPRO+AMxB+1T2018,video,83,892,10320,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-The Importance of AM,17,18,35
+091e476b9c794d019c1660622a3a12f6,1416.9739f,2035.8134f,MITxPRO+AMxB+1T2018,problem,84,920,3532,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 1,6,8,14
+d4f85f1570bf4ced82ef64cab4fa68f4,1438.7078f,2072.4934f,MITxPRO+AMxB+1T2018,problem,85,918,3418,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 2,8,11,19
+b4e40f400718476dad4c66477ccb68d0,1570.808f,2117.2817f,MITxPRO+AMxB+1T2018,html,86,39,67,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Html,5,4,9
+ca856b87daac457ab8b54e03644f4264,1395.4696f,2100.3818f,MITxPRO+AMxB+1T2018,problem,87,920,4504,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 3: Aerospace Bracket,10,8,18
+f0d9ed3b227a456f85ef40f79f56e546,1359.4169f,2131.0842f,MITxPRO+AMxB+1T2018,problem,88,920,4054,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 4: Knee Implant,7,7,14
+d59550403f9b49628189ff34f74d3b3d,1304.9836f,2109.1382f,MITxPRO+AMxB+1T2018,problem,89,920,6010,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 5: Orthodontic Aligner,9,9,18
+432e2e03af924d10b164b60c5fcb86a1,1271.5653f,2069.345f,MITxPRO+AMxB+1T2018,problem,90,919,4374,Week 1: Introduction to Additive Manufacturing (3 hrs),The Importance of Additive Manufacturing-Question 6: Performance Running Shoe,10,10,20
+5fe15241fc4840f1a7fb294182265c39,1158.6903f,2026.9114f,MITxPRO+AMxB+1T2018,html,91,913,5344,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-Html,73,54,127
+f3cfda7ffa804facb0183da6497283a6,1085.8123f,2067.0647f,MITxPRO+AMxB+1T2018,video,92,877,8515,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-The Additive Manufacturing Industry,13,27,40
+d457def4b5744eda84b61b030ba37c4d,1270.731f,2290.0317f,MITxPRO+AMxB+1T2018,html,93,26,31,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-Html,2,3,5
+54ce11d3d7d146868c49330c5988da72,1129.9218f,2120.2695f,MITxPRO+AMxB+1T2018,html,94,124,211,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-Html,6,5,11
+391baeed712c4a22b2cf24c3862ebd70,1873.9279f,353.92834f,MITxPRO+AMxB+1T2018,discussion,95,4,4,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-Where do you see the greatest opportunities for mass production using AM?,0,0,0
+4ccb45d574ff4f8eb16c6909f28f2925,1284.7927f,-1811.097f,MITxPRO+AMxB+1T2018,discussion,96,0,0,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-Can you think of another potential customized product that AM would eble?,0,0,0
+a2df8dacf5ba431998391eab736836e7,2209.8723f,461.0744f,MITxPRO+AMxB+1T2018,discussion,97,1,1,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Industry-What other expertise do you hope to connect with throughout this course to enhance your knowledge of the applications and potential of AM?,0,0,0
+1afa468dc7ce4b91a590366c2a697707,1010.4397f,2112.2139f,MITxPRO+AMxB+1T2018,html,98,909,4600,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Html,25,34,59
+c69e8c4f31b84da1819bfbd83719e7d2,1039.6027f,2168.194f,MITxPRO+AMxB+1T2018,problem,99,907,4731,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 1,11,9,20
+b30f0577ae11446a85aff7721bcfcf2f,1084.9235f,2187.099f,MITxPRO+AMxB+1T2018,problem,100,909,3115,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 2,10,9,19
+b6a4f407524b40eeb08d984b32836876,1075.3755f,2231.4568f,MITxPRO+AMxB+1T2018,problem,101,905,3082,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 3,8,10,18
+83df58e45bca4a728eb3dcb87532e1a1,1025.79f,2228.58f,MITxPRO+AMxB+1T2018,problem,102,907,4422,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 4,9,9,18
+5fcfdbc511594d9fb3d368bcbc0adf84,1110.7191f,2370.6992f,MITxPRO+AMxB+1T2018,html,103,45,61,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Html,4,4,8
+1a4bb735ff0049dba3a0633edf68276a,979.89636f,2213.6082f,MITxPRO+AMxB+1T2018,problem,104,907,2839,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 5,8,9,17
+7228edcdafd748a8ba059ace1ec6a202,977.2061f,2171.2954f,MITxPRO+AMxB+1T2018,problem,105,906,2753,Week 1: Introduction to Additive Manufacturing (3 hrs),Required Reading-Question 6,9,10,19
+6ad12d818d9a441c87b8c41450b11f12,892.0885f,2121.4504f,MITxPRO+AMxB+1T2018,html,106,905,4214,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Html,35,35,70
+fc68686f026f4a1c8b21f5339ac0044c,876.89343f,2199.2983f,MITxPRO+AMxB+1T2018,video,107,854,7323,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-The AM Workflow (from CAD to part),18,15,33
+550b719286db44248d48173c92970f5b,954.62756f,2409.0688f,MITxPRO+AMxB+1T2018,html,108,30,37,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Html,3,2,5
+20ccdcf059974bbea51abef68782ce5c,671.2797f,2400.5679f,MITxPRO+AMxB+1T2018,html,109,15,23,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Html,2,2,4
+2afff631870d43df9cf42c91ff1c375f,865.2727f,2257.826f,MITxPRO+AMxB+1T2018,problem,110,906,2916,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Question 1,9,8,17
+25a120914939487ab01f3e320cb238f4,853.1694f,2299.0532f,MITxPRO+AMxB+1T2018,problem,111,909,3285,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Question 2,8,8,16
+a8413f2779a14150bf1c83e9f5ea447c,815.7302f,2323.0164f,MITxPRO+AMxB+1T2018,problem,112,909,3054,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Question 3,7,8,15
+53b450f515af46c3b1eb571ec6d1fd4c,797.22406f,2279.183f,MITxPRO+AMxB+1T2018,problem,113,909,2924,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Question 4,7,8,15
+905f0cf9e2374c818bf1263e9d7e2c00,804.6478f,2236.6006f,MITxPRO+AMxB+1T2018,problem,114,909,2953,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Workflow-Question 5,9,9,18
+8b1109f1bac740fc8974fb4eca386560,746.2843f,2047.5739f,MITxPRO+AMxB+1T2018,html,115,906,4458,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Html,40,41,81
+d5d74cf927094b04951635356b2c61a0,738.1314f,2140.0076f,MITxPRO+AMxB+1T2018,video,116,884,13296,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-AM Technology Spectrum,14,17,31
+06fc2cf614ba46e1a78252ea143efb8a,584.7108f,2372.2405f,MITxPRO+AMxB+1T2018,html,117,34,38,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Html,3,2,5
+c9b70711831043beafffd7e1f034a339,667.79956f,2167.2424f,MITxPRO+AMxB+1T2018,problem,118,908,3124,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Question 1,8,7,15
+e22344d128e24de29caa95e6973a6ea7,528.8576f,2345.5732f,MITxPRO+AMxB+1T2018,html,119,21,28,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Html,3,2,5
+6dfd127f3e874ed3912d3372db0b3d35,657.846f,2118.3708f,MITxPRO+AMxB+1T2018,problem,120,908,5546,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Question 2,7,7,14
+75e15653e2d84fcd84a2b1b2c0949dd0,683.6001f,2073.918f,MITxPRO+AMxB+1T2018,problem,121,908,3145,Week 1: Introduction to Additive Manufacturing (3 hrs),The Additive Manufacturing Technology Spectrum-Question 3,10,9,19
+9e07d9bd17d84172858e4e2d7c7f3e4b,680.374f,1959.6108f,MITxPRO+AMxB+1T2018,html,122,901,4820,Week 1: Introduction to Additive Manufacturing (3 hrs),Emerging Trends in Additive Manufacturing-Html,36,35,71
+c4cb65c90b7145dca401224eabfa1241,644.9727f,2013.7125f,MITxPRO+AMxB+1T2018,video,123,845,5667,Week 1: Introduction to Additive Manufacturing (3 hrs),Emerging Trends in Additive Manufacturing-Emerging Trends in Additive Manufacturing,11,11,22
+23ec45e604724c2a84eb5bf1b724de68,462.1435f,2325.8896f,MITxPRO+AMxB+1T2018,html,124,19,73,Week 1: Introduction to Additive Manufacturing (3 hrs),Emerging Trends in Additive Manufacturing-Html,4,3,7
+638d08a4940d462481093ee144f85401,614.7398f,1967.238f,MITxPRO+AMxB+1T2018,video,125,843,4229,Week 1: Introduction to Additive Manufacturing (3 hrs),Emerging Trends in Additive Manufacturing-The Digital Thread at General Electric ,12,16,28
+ae7603c14c1643578dfedac1f7b965cd,393.41125f,2270.6094f,MITxPRO+AMxB+1T2018,html,126,42,60,Week 1: Introduction to Additive Manufacturing (3 hrs),Emerging Trends in Additive Manufacturing-Html,6,5,11
+2b9cb425a86f4865825a82fb330fbd6b,1987.3389f,913.16064f,MITxPRO+AMxB+1T2018,discussion,127,3,3,Week 1: Introduction to Additive Manufacturing (3 hrs),"Emerging Trends in Additive Manufacturing-How can the concept of the ""digital thread"" improve the efficiency or quality of manufacturing operations?  Propose a specific example from any industry.",0,0,0
+2ad839c226ab44539d98e2a1e84e439f,632.806f,1866.7281f,MITxPRO+AMxB+1T2018,html,128,906,5635,Week 1: Introduction to Additive Manufacturing (3 hrs),Additive Manufacturing Online Resources-Html,55,45,100
+c076a6e427c34d0c99c5bb95cbce05e5,601.2821f,1799.2726f,MITxPRO+AMxB+1T2018,html,129,912,5656,Week 1: Introduction to Additive Manufacturing (3 hrs),Instructions and Assignment-Html,42,46,88
+6ac9f21a57ba4218b9e3b13a36f263be,701.9844f,1803.3127f,MITxPRO+AMxB+1T2018,html,130,260,468,Week 1: Introduction to Additive Manufacturing (3 hrs),Instructions and Assignment-Html,12,12,24
+19f5efdd71494972b03a02f445dc98fa,655.3577f,1741.5614f,MITxPRO+AMxB+1T2018,openassessment,131,798,11178,Week 1: Introduction to Additive Manufacturing (3 hrs),Instructions and Assignment-Openassessment,15,24,39
+d96704d24a68401eaad4628b30fdb889,572.8009f,1734.1871f,MITxPRO+AMxB+1T2018,html,132,886,4005,Week 1: Introduction to Additive Manufacturing (3 hrs),Key Takeaways and Course Trajectory-Html,20,23,43
+17707229e69e428f8b8350b8c87c157e,543.92303f,1692.923f,MITxPRO+AMxB+1T2018,video,133,819,3563,Week 1: Introduction to Additive Manufacturing (3 hrs),Key Takeaways and Course Trajectory-Key Takeaways,11,15,26
+89f61d355af44e16ac1f9654029f89e0,487.81943f,1571.6058f,MITxPRO+AMxB+1T2018,html,134,890,5138,Week 2: Additive Manufacturing Processes (5 hrs),Navigating the AM Process Spectrum-Html,89,66,155
+b3f87007fabf4748901e3caaa1ae7ce1,637.14734f,1521.5038f,MITxPRO+AMxB+1T2018,html,135,57,92,Week 2: Additive Manufacturing Processes (5 hrs),Navigating the AM Process Spectrum-Html,5,4,9
+49bc2f8db38b47f9b378f26dde2a6e64,425.0109f,1441.9081f,MITxPRO+AMxB+1T2018,html,136,899,4136,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Extrusion AM-Html,78,46,124
+c7b26f5c177645f8915da5083313c6cf,456.45935f,1360.3588f,MITxPRO+AMxB+1T2018,video,137,879,11083,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Extrusion AM-Introduction to Extrusion AM,11,21,32
+debd717226334517aafcbf75ca463690,906.1766f,1197.2079f,MITxPRO+AMxB+1T2018,html,138,16,19,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Extrusion AM-Html,1,2,3
+ed4ff111f1ec4a51ad19229302d1ffd2,771.6496f,1217.1809f,MITxPRO+AMxB+1T2018,html,139,28,36,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Extrusion AM-Html,2,3,5
+d02f35406ea04ba3a7720453a1f354cc,394.43457f,1325.2754f,MITxPRO+AMxB+1T2018,html,140,892,2772,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,22,19,41
+dd6d0ae279474847af7841a0c0b4d5a5,382.0763f,1276.8606f,MITxPRO+AMxB+1T2018,video,141,852,4732,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Video,6,10,16
+2b0c1a20f8f441c3ab4e320b0bde00e1,731.28546f,1116.9255f,MITxPRO+AMxB+1T2018,html,142,30,47,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,4,2,6
+ec173897e6254e50812116be2dc37a94,344.57706f,1242.8231f,MITxPRO+AMxB+1T2018,html,143,889,2692,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,22,26,48
+ac3ba61065f84433a945ac8c71b537f4,311.47437f,1198.3597f,MITxPRO+AMxB+1T2018,html,144,890,2754,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Key Takeaways,32,25,57
+553c1e0f782e43f492dadd97e6bef776,277.10962f,1140.3688f,MITxPRO+AMxB+1T2018,problem,145,904,7426,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,16,29,45
+902dff85d0d34920814ee3729329d2d2,335.11716f,1124.0574f,MITxPRO+AMxB+1T2018,problem,146,899,3146,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,8,10,18
+6be9622646964f02a8368b937bd8a304,368.1011f,1095.6294f,MITxPRO+AMxB+1T2018,problem,147,899,3145,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,7,9,16
+8460c1a442324bf6a54498d85b28cfe0,340.9511f,1058.9492f,MITxPRO+AMxB+1T2018,problem,148,898,4146,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,7,11,18
+c08a68b3db574534a7bee42ec660d1a3,296.0654f,1075.96f,MITxPRO+AMxB+1T2018,problem,149,898,3056,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,8,13,21
+2126522cd4b94bd68b2999261978d881,190.79118f,1075.5984f,MITxPRO+AMxB+1T2018,html,150,900,4258,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Photopolymerization AM-Html,80,46,126
+3de7431267b04318bd0e9501f80a019d,139.43803f,1007.8859f,MITxPRO+AMxB+1T2018,video,151,866,10573,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Photopolymerization AM-Introduction to Photopolymerization AM,9,20,29
+5cfb1ef0ace24db58889425cf90e8268,121.46166f,1203.4762f,MITxPRO+AMxB+1T2018,html,152,38,60,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Photopolymerization AM-Html,4,4,8
+67aa56ef4f504d889c6068052bab302b,73.863f,1028.9393f,MITxPRO+AMxB+1T2018,html,153,889,2479,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,26,16,42
+353e3386c40d443197f8dd7cd454bf27,30.80886f,1006.77466f,MITxPRO+AMxB+1T2018,video,154,847,4221,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-SLA Workflow ,8,10,18
+737b9b6ab4e647879105e210e5fe1807,234.87611f,669.4707f,MITxPRO+AMxB+1T2018,html,155,15,22,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,2,1,3
+334c250757224648b03c5fcdc8ab25b4,-17.391169f,1020.491f,MITxPRO+AMxB+1T2018,html,156,885,2431,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,22,24,46
+35fb6234757c420ea8007b976a49044a,-75.7588f,1023.0194f,MITxPRO+AMxB+1T2018,html,157,888,2841,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,32,32,64
+632447fdff6840a3a11237aa514d7e68,-148.18463f,1022.74365f,MITxPRO+AMxB+1T2018,problem,158,900,8999,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,19,31,50
+48f524e499d548ea91963ba7ab8ad845,-126.95826f,960.436f,MITxPRO+AMxB+1T2018,problem,159,897,3442,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,7,10,17
+e1d55c63a2bd4a79aca5c750cc7a6c97,-131.05559f,917.29456f,MITxPRO+AMxB+1T2018,problem,160,897,2984,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,6,9,15
+bd441ccd067547a89407ec54fa626f06,-175.4739f,920.5119f,MITxPRO+AMxB+1T2018,problem,161,896,2984,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,5,9,14
+f7874e47588041b697e73ba41e6e407c,-191.16331f,964.3197f,MITxPRO+AMxB+1T2018,problem,162,897,4509,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,9,12,21
+26772bf1f08f4f96ab44e6007c4c6976,-290.7753f,1063.8829f,MITxPRO+AMxB+1T2018,html,163,895,6069,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Powder Bed Fusion AM-Html,92,66,158
+9b0b3df2c14144d49b56a90c54cb748a,-368.4706f,991.924f,MITxPRO+AMxB+1T2018,video,164,861,13736,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Powder Bed Fusion AM-Introduction to Powder Bed Fusion AM,14,27,41
+3e4ef77de6bf43dd8ba014f6897dcae6,-411.2561f,795.5911f,MITxPRO+AMxB+1T2018,html,165,51,79,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Powder Bed Fusion AM-Html,5,4,9
+b44d071a81c142198d7e7ca14f5442f6,-423.26602f,1065.6748f,MITxPRO+AMxB+1T2018,html,166,884,3671,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Sintering-Duplicate of '',50,20,70
+2a3d8b5f6991442cbf17871398487920,-474.0718f,1046.3976f,MITxPRO+AMxB+1T2018,video,167,837,4147,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Sintering-SLS Workflow ,6,11,17
+5e42a1b1cce24e97b69466e3d9d02a98,-861.0731f,757.169f,MITxPRO+AMxB+1T2018,html,168,9,10,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Sintering-Html,1,0,1
+6b640336506d4155b1388785aab42fca,-509.00275f,1099.1978f,MITxPRO+AMxB+1T2018,html,169,884,4277,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Melting-Html,77,47,124
+5b303a0f1b8c4aa4be49f74f2fc89c9e,-570.93256f,1134.1721f,MITxPRO+AMxB+1T2018,video,170,838,5148,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Melting-SLM Workflow ,9,20,29
+05777fc145714e21b5bc652ac8cec7cf,-1180.6622f,1188.7253f,MITxPRO+AMxB+1T2018,html,171,11,15,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Selective Laser Melting-Html,1,1,2
+b47999fa192a4c07897ef0655c1f458f,-530.38806f,1192.3063f,MITxPRO+AMxB+1T2018,html,172,881,3947,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,31,51,82
+4278a11746804def8e613a8a8da29a7c,-515.30145f,1259.6669f,MITxPRO+AMxB+1T2018,html,173,883,3832,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,39,48,87
+deead91c4b084361847e1f6596966bb8,-486.71942f,1338.1431f,MITxPRO+AMxB+1T2018,problem,174,895,8129,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,24,47,71
+6bcb17967bcb4df9bfc7914614ea438d,-418.13715f,1326.721f,MITxPRO+AMxB+1T2018,problem,175,893,4040,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,8,14,22
+c1cffbf051a6419bb88a3efe70810c03,-366.1528f,1331.9354f,MITxPRO+AMxB+1T2018,problem,176,892,4012,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,12,14,26
+deb6f01c4aee459aba4573c30370cd9f,-333.2065f,1366.8076f,MITxPRO+AMxB+1T2018,problem,177,893,2947,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,6,13,19
+712de1d8f0494088af25f2d8990ed903,-352.06827f,1411.3763f,MITxPRO+AMxB+1T2018,problem,178,892,4124,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,13,12,25
+bcfaf0a85a4c4bb1b5f38a5334a89bc7,-405.68707f,1416.8987f,MITxPRO+AMxB+1T2018,problem,179,891,4607,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 6,11,14,25
+70ce3c11df2441369632b5e4c33440b2,-459.29947f,1432.1335f,MITxPRO+AMxB+1T2018,problem,180,887,4219,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 7,14,14,28
+631404452a894b47949846af85b65a75,-516.1825f,1419.1024f,MITxPRO+AMxB+1T2018,problem,181,890,4747,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 8,14,20,34
+8a10cc79e71240fbbaef15137c988bf5,-541.86206f,1562.7704f,MITxPRO+AMxB+1T2018,html,182,893,4538,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Material Jetting AM-Html,80,53,133
+d6f5e62f53b24133ad80b6ae4fbb1c67,-578.75586f,1653.4819f,MITxPRO+AMxB+1T2018,video,183,844,13150,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Material Jetting AM-Introduction to Material Jetting AM,15,25,40
+22f8ee5d537a46cfb33f6713a2ec6a6a,-1022.3971f,1334.3534f,MITxPRO+AMxB+1T2018,html,184,25,64,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Material Jetting AM-Html,4,6,10
+0cd55e8d087d4dd7b4abe0c9eeb53ee9,-561.59717f,1732.6155f,MITxPRO+AMxB+1T2018,html,185,870,2657,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,29,21,50
+43334af9e23541758eae3f163f0233ca,-537.5852f,1775.8112f,MITxPRO+AMxB+1T2018,video,186,835,4053,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Material Jetting Workflow ,7,11,18
+b6e111cfb4a9471b8d1efe4384681e27,-282.4829f,2071.8438f,MITxPRO+AMxB+1T2018,html,187,14,15,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,0,1,1
+0552f7dc52d14cf5b15daed9c4229342,-580.77924f,1804.0681f,MITxPRO+AMxB+1T2018,html,188,870,2707,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,29,26,55
+151ff258d4a74e6dbe9efde0ce31b457,-611.55304f,1853.2036f,MITxPRO+AMxB+1T2018,html,189,874,2792,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,35,35,70
+c1e3057887ae4756b3983ee71103080a,-654.04456f,1915.3584f,MITxPRO+AMxB+1T2018,problem,190,891,6919,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,21,31,52
+4ddee52f520141a192396264e12e939c,-597.3527f,1934.6425f,MITxPRO+AMxB+1T2018,problem,191,883,2939,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,7,10,17
+2a07f16983744ee4b619e6822558732e,-562.4256f,1964.0338f,MITxPRO+AMxB+1T2018,problem,192,884,3579,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,9,11,20
+3b80b63e802243169ed3dc0ceba87a81,-591.2871f,1999.9788f,MITxPRO+AMxB+1T2018,problem,193,884,2774,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,11,11,22
+750c556f3cae4c2db33e983c7c72db60,-640.3371f,1982.8054f,MITxPRO+AMxB+1T2018,problem,194,881,5048,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,9,13,22
+aedac84ad12f487db1c88dbe3c82abde,-747.6959f,1979.0643f,MITxPRO+AMxB+1T2018,html,195,888,4414,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Binder Jetting AM-Html,78,47,125
+44a09f185c624f388d29e488f28999d2,-784.16254f,2059.8398f,MITxPRO+AMxB+1T2018,video,196,841,11762,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Binder Jetting AM-Introduction to Binder Jetting AM,9,20,29
+41f2083f68e34e818c645e3b5fe1f3a6,-548.02515f,2291.3674f,MITxPRO+AMxB+1T2018,html,197,27,49,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Binder Jetting AM-Html,3,4,7
+8c70a939146b49cd91d826eaa1b1aaf8,-856.26843f,2035.7493f,MITxPRO+AMxB+1T2018,html,198,863,2626,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,32,24,56
+0fc9573794ea433ca88f5be6758b560e,-895.4795f,2069.088f,MITxPRO+AMxB+1T2018,video,199,796,5041,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Video,4,9,13
+f5040720d39f47cda6c8744f087759d2,-273.95422f,2086.147f,MITxPRO+AMxB+1T2018,html,200,18,21,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,2,1,3
+cfc8fb9e455e4fc592f63e75803bc5e9,-937.8346f,2036.7119f,MITxPRO+AMxB+1T2018,html,201,868,2767,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,27,35,62
+4454aaa65b6d49ca89add710ba15514e,-997.19446f,2020.0927f,MITxPRO+AMxB+1T2018,html,202,871,2894,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,35,41,76
+b417ce5230004e449eb68bbbca8930d9,-1070.2748f,2016.4785f,MITxPRO+AMxB+1T2018,problem,203,886,7962,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,19,29,48
+519a3ce144b042f09bc9f27f33267c71,-1059.4999f,2079.796f,MITxPRO+AMxB+1T2018,problem,204,882,3311,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,9,11,20
+1c6f3c34f7cc4c9b94c4e8d737f587c6,-1074.0428f,2122.387f,MITxPRO+AMxB+1T2018,problem,205,881,2733,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,9,10,19
+d8424937df4a417f80f02a8a69eee970,-1121.1057f,2110.4673f,MITxPRO+AMxB+1T2018,problem,206,881,4480,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,11,12,23
+4be8a36bf92f42cd8fbd28d32417459c,-1129.2733f,2058.4072f,MITxPRO+AMxB+1T2018,problem,207,881,4160,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,10,13,23
+1f5002403e13485da7e7b1f5896e81ee,-1200.5112f,1950.5095f,MITxPRO+AMxB+1T2018,html,208,884,4284,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Directed Energy Deposition AM-Html,79,54,133
+46cd00fd3cd84c52a7161a7eafdb9268,-1298.658f,1957.5027f,MITxPRO+AMxB+1T2018,video,209,836,14137,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Directed Energy Deposition AM-Introduction to Directed Energy Deposition AM,13,21,34
+946ced56e0c848f38f9e1a1fb8996535,-1378.407f,2177.2139f,MITxPRO+AMxB+1T2018,html,210,33,51,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Directed Energy Deposition AM-Html,3,4,7
+276eb91bb71649698c5d0281235cbd59,-1335.953f,1884.8552f,MITxPRO+AMxB+1T2018,html,211,863,2477,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,28,19,47
+9af4973779c443ac986aa5b2a63462d6,-1386.5604f,1882.9625f,MITxPRO+AMxB+1T2018,video,212,789,5571,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Video,4,9,13
+00c23be7a0584af395428ab3a704e552,-1506.0593f,2129.4153f,MITxPRO+AMxB+1T2018,html,213,15,18,Week 2: Additive Manufacturing Processes (5 hrs),Workflow-Html,1,3,4
+0e3c2d8cac1e44af8bd7fabc48f8d079,-1400.6755f,1833.0181f,MITxPRO+AMxB+1T2018,html,214,859,2380,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,23,27,50
+c8a31966713e4ef18f4f06cd4a79d374,-1445.6532f,1795.777f,MITxPRO+AMxB+1T2018,html,215,864,2550,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,33,37,70
+f732776055a94d8d8fd501519588bcc8,-1515.2186f,1772.4977f,MITxPRO+AMxB+1T2018,problem,216,881,7256,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,18,30,48
+71aa8975942747bfa496bcb179836244,-1531.4912f,1831.8365f,MITxPRO+AMxB+1T2018,problem,217,871,2661,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,8,12,20
+58bc915ba85341b48f20266cd8bf3050,-1552.3427f,1871.0916f,MITxPRO+AMxB+1T2018,problem,218,871,2864,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,10,11,21
+ac3271c843024f538cfe21e21a0504e4,-1597.8202f,1870.2682f,MITxPRO+AMxB+1T2018,problem,219,872,3265,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,10,11,21
+123565b06983431e9889eac59f1c0f7b,-1605.7146f,1822.5497f,MITxPRO+AMxB+1T2018,problem,220,870,3794,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,10,12,22
+44a49f1cf12f41508cd0ed01b3633f1d,-1588.9417f,1773.7816f,MITxPRO+AMxB+1T2018,problem,221,870,3834,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 6,12,15,27
+61856830155142bcaeace6aa59bd78ff,-1623.6948f,1659.7856f,MITxPRO+AMxB+1T2018,html,222,879,3255,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Lamination AM-Html,38,35,73
+b62c41bd1f7041b8af6a7c1ba244ed04,-1674.5938f,1613.5822f,MITxPRO+AMxB+1T2018,video,223,819,6829,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Lamination AM-Introduction to Lamition AM,12,16,28
+7d49c93e6d8248b5917ce5939b0ed199,-1815.2545f,1854.1975f,MITxPRO+AMxB+1T2018,html,224,14,18,Week 2: Additive Manufacturing Processes (5 hrs),Introduction to Lamination AM-Html,2,1,3
+1016f8c2803e4955b2ecb470241bcd95,-1708.7706f,1571.0015f,MITxPRO+AMxB+1T2018,html,225,851,2012,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Paper LOM-Html,14,8,22
+6125768f1d5e42fb883dbc1aaa84223c,-1753.0436f,1574.1732f,MITxPRO+AMxB+1T2018,video,226,790,3719,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Paper LOM-Paper LOM workflow ,7,14,21
+290de671af174739bcd0df683b4afc67,-1988.442f,1731.9906f,MITxPRO+AMxB+1T2018,html,227,9,14,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Paper LOM-Html,2,1,3
+39d452015e8545798e59a5722b3926e6,-1736.1155f,1530.9974f,MITxPRO+AMxB+1T2018,html,228,846,2008,Week 2: Additive Manufacturing Processes (5 hrs),Workflow: Metal LOM-Html,16,11,27
+861189817e874a78b48adb13db4dd352,-1751.246f,1493.9445f,MITxPRO+AMxB+1T2018,html,229,847,2271,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,14,11,25
+305af948e6fd418db8d32afcba8edec2,-1958.9199f,-813.5209f,MITxPRO+AMxB+1T2018,html,230,1,1,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,0,0,0
+1e10c4909db04d90ae611fcb24527c0f,1205.619f,-1790.6671f,MITxPRO+AMxB+1T2018,html,231,6,11,Week 2: Additive Manufacturing Processes (5 hrs),Materials and Length Scales-Html,0,0,0
+21025d91f3cd4d4f858c2ec35764b5da,-1764.0171f,1454.3461f,MITxPRO+AMxB+1T2018,html,232,853,2087,Week 2: Additive Manufacturing Processes (5 hrs),Key Takeaways-Html,18,17,35
+1ed230eb23af43aab786739fdd13ea89,-1795.7297f,1405.7091f,MITxPRO+AMxB+1T2018,problem,233,880,6585,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 1,20,30,50
+57aea84c635d4c42bdea24fcad7ddc04,-1833.1007f,1456.1572f,MITxPRO+AMxB+1T2018,problem,234,870,3591,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 2,12,12,24
+7caa315a66164f50bd8b97b0f43dba18,-1873.0464f,1482.61f,MITxPRO+AMxB+1T2018,problem,235,871,2718,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 3,10,13,23
+aef4930d74cd48de8d774741083e54bc,-1902.1783f,1446.0928f,MITxPRO+AMxB+1T2018,problem,236,868,3515,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 4,9,13,22
+c15d118c7742410aa670b99d4f796785,-1885.4314f,1396.7292f,MITxPRO+AMxB+1T2018,problem,237,867,4343,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 5,11,14,25
+d4351e91190f4e08b308ceb76aa5cf06,-1849.449f,1354.3796f,MITxPRO+AMxB+1T2018,problem,238,868,4363,Week 2: Additive Manufacturing Processes (5 hrs),Concept Questions-Question 6,13,18,31
+efad98624b054b5fbe2cc340e3df324d,-1842.0659f,1214.096f,MITxPRO+AMxB+1T2018,html,239,877,4213,Week 3: Applications of Additive Manufacturing (5 hrs),Welcome to Week 3-Html,49,41,90
+09fe06fcddb044dbb16b33ff6fbdde1c,-1920.9089f,1239.0037f,MITxPRO+AMxB+1T2018,html,240,59,78,Week 3: Applications of Additive Manufacturing (5 hrs),Welcome to Week 3-Html,3,4,7
+c9543052dcba40b58909ec53da262aaa,-1865.2137f,1135.9634f,MITxPRO+AMxB+1T2018,html,241,887,3348,Week 3: Applications of Additive Manufacturing (5 hrs),Framing the Application Potential of AM-Html,57,34,91
+3d412537e19344628642e97d2a0d1e3e,-1917.3047f,1093.7073f,MITxPRO+AMxB+1T2018,video,242,848,7095,Week 3: Applications of Additive Manufacturing (5 hrs),Framing the Application Potential of AM-Framing the Application of Potential of AM,10,10,20
+754173802659463ea74eee4d359bc6fc,-2009.1235f,1175.9744f,MITxPRO+AMxB+1T2018,html,243,25,37,Week 3: Applications of Additive Manufacturing (5 hrs),Framing the Application Potential of AM-Html,4,3,7
+27a8801c431c4cc58d69b8ff02121f29,-1925.1808f,1041.0336f,MITxPRO+AMxB+1T2018,problem,244,876,3842,Week 3: Applications of Additive Manufacturing (5 hrs),Framing the Application Potential of AM-Question 1,4,6,10
+c916a881ccf146b68ec3e4781195bbd1,-2098.7263f,1086.8077f,MITxPRO+AMxB+1T2018,html,245,18,23,Week 3: Applications of Additive Manufacturing (5 hrs),Framing the Application Potential of AM-Html,2,3,5
+4037cb08917c43238c4691dbe8895637,-1976.3113f,944.2701f,MITxPRO+AMxB+1T2018,html,246,883,3846,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Html,23,31,54
+d5172470b4d443d7ba479af419b4f99b,-1984.4044f,1007.9813f,MITxPRO+AMxB+1T2018,video,247,832,7464,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Establishing a Business Case for AM,14,15,29
+c4a55bdf46eb40b1b10adc7df324e1f5,-1717.5692f,943.8645f,MITxPRO+AMxB+1T2018,html,248,22,29,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Html,3,2,5
+f016c0f54ab84871a0700aa16ee7fa28,-1763.2917f,884.9019f,MITxPRO+AMxB+1T2018,html,249,31,36,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Html,3,4,7
+310bb0618ec84817970f0320c6051b92,-1926.8707f,981.154f,MITxPRO+AMxB+1T2018,problem,250,875,4547,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Question 1,8,8,16
+cc6de24a16d54830beca01a4787a5b4d,-1896.5137f,945.1038f,MITxPRO+AMxB+1T2018,problem,251,871,3214,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Question 2,7,7,14
+20aaaaf046c347828ff18e07bfc3ab4f,-1932.198f,912.2127f,MITxPRO+AMxB+1T2018,problem,252,870,3485,Week 3: Applications of Additive Manufacturing (5 hrs),Establishing a Business Case for AM-Question 3,7,9,16
+5cc9c5960b654f42829ef46a9c3a1444,-2000.4116f,892.00385f,MITxPRO+AMxB+1T2018,html,253,875,2781,Week 3: Applications of Additive Manufacturing (5 hrs),Prototyping: Introduction-Html,30,30,60
+f258df5b93ec4688a59d208391ca6a7f,-2034.743f,846.2942f,MITxPRO+AMxB+1T2018,html,254,848,1911,Week 3: Applications of Additive Manufacturing (5 hrs),Accelerated Product Development: Frito Lay Potato Chips-Html,16,17,33
+c41b9b59311243a1bbe7af884c0ab883,-2062.6091f,812.51776f,MITxPRO+AMxB+1T2018,html,255,837,1726,Week 3: Applications of Additive Manufacturing (5 hrs),Iterative Customer Testing: Jamber Coffee Mug-Html,10,11,21
+b233e1e427114fad9d1e90757aeb33cd,-2087.9502f,781.53156f,MITxPRO+AMxB+1T2018,html,256,837,1802,Week 3: Applications of Additive Manufacturing (5 hrs),Prototype Investment Casting: Vaupell and 3D Systems-Html,15,12,27
+8feb7788f1184ed2ad654a08738e6e3b,-2114.9387f,748.54205f,MITxPRO+AMxB+1T2018,html,257,830,1911,Week 3: Applications of Additive Manufacturing (5 hrs),Surgical Planning-Html,15,14,29
+2d680713e46d48f1a8483813fdf8eaad,-2151.641f,729.05585f,MITxPRO+AMxB+1T2018,video,258,703,2831,Week 3: Applications of Additive Manufacturing (5 hrs),Surgical Planning-Virtual Surgical Planning ,5,7,12
+c662ca6bf6ce446fa8ee92f993cb42bd,529.0505f,-2140.9128f,MITxPRO+AMxB+1T2018,html,259,6,6,Week 3: Applications of Additive Manufacturing (5 hrs),Surgical Planning-Html,0,0,0
+d88b1dd362154e4783fa29ef8cc2fd69,-2181.9744f,701.9431f,MITxPRO+AMxB+1T2018,video,260,647,2489,Week 3: Applications of Additive Manufacturing (5 hrs),Surgical Planning-Video,5,6,11
+664871c85f90481e8ce08ed81e13204f,-2184.403f,660.38947f,MITxPRO+AMxB+1T2018,html,261,831,2102,Week 3: Applications of Additive Manufacturing (5 hrs),Large-Size Prototyping: Villeroy & Boch with BigRep-Html,19,13,32
+addc582e93ef43d5a647d5a27f89866e,-2215.5037f,629.6103f,MITxPRO+AMxB+1T2018,video,262,706,3234,Week 3: Applications of Additive Manufacturing (5 hrs),Large-Size Prototyping: Villeroy & Boch with BigRep-Video,7,8,15
+e0c99d2be84f4d4caf2352d0f048c0ce,-2235.409f,585.3866f,MITxPRO+AMxB+1T2018,html,263,835,3683,Week 3: Applications of Additive Manufacturing (5 hrs),Prototype Mold Tooling: Built-Rite with Desktop Metal-IFrame Tool,14,26,40
+bf82c8fce82849deb2c0c18f79aba303,-2263.0796f,535.4719f,MITxPRO+AMxB+1T2018,html,264,855,3569,Week 3: Applications of Additive Manufacturing (5 hrs),Tooling: Introduction-Html,47,41,88
+3b4a95cbe05a4f9eb146b42e2744f820,-2495.785f,593.10754f,MITxPRO+AMxB+1T2018,html,265,23,29,Week 3: Applications of Additive Manufacturing (5 hrs),Tooling: Introduction-Html,2,3,5
+ba8fc22784274180b82fd5ce5c8fcfa5,-2319.191f,514.93286f,MITxPRO+AMxB+1T2018,video,266,732,4662,Week 3: Applications of Additive Manufacturing (5 hrs),Tooling: Introduction-Volkswagen: 3D printed production jigs and fixtures,9,8,17
+96f20d8fc3954ca28da0c2f40d965c44,-2415.7036f,649.0809f,MITxPRO+AMxB+1T2018,html,267,9,11,Week 3: Applications of Additive Manufacturing (5 hrs),Tooling: Introduction-Html,1,1,2
+d1a13ee8ec1a4b1cb01b63a69b48a8a0,-2034.8892f,548.5349f,MITxPRO+AMxB+1T2018,html,268,10,12,Week 3: Applications of Additive Manufacturing (5 hrs),Tooling: Introduction-Html,0,1,1
+30aea0ab9d50468387ce90b94ce24b88,-2330.3926f,464.88428f,MITxPRO+AMxB+1T2018,html,269,850,2512,Week 3: Applications of Additive Manufacturing (5 hrs),"Jigs and Fixtures: Boeing, Stratasys-Html",28,20,48
+a30c1e8242864e299e15046983824275,-2381.476f,458.0505f,MITxPRO+AMxB+1T2018,video,270,788,4626,Week 3: Applications of Additive Manufacturing (5 hrs),"Jigs and Fixtures: Boeing, Stratasys-Drill Jigs and Alignment Tools",7,14,21
+6897f90f4ca8449ba79c118c950f687c,-2614.325f,529.98865f,MITxPRO+AMxB+1T2018,html,271,14,22,Week 3: Applications of Additive Manufacturing (5 hrs),"Jigs and Fixtures: Boeing, Stratasys-Html",2,2,4
+e784ed97530e489e8c66e605160dae31,-2362.6848f,414.49985f,MITxPRO+AMxB+1T2018,html,272,835,1881,Week 3: Applications of Additive Manufacturing (5 hrs),Ergonomic Fastening Tool: Boeing-Html,10,10,20
+f2b6b34950d14e27b69d8148625786aa,1603.149f,-1439.0499f,MITxPRO+AMxB+1T2018,video,273,0,0,Week 3: Applications of Additive Manufacturing (5 hrs),Ergonomic Fastening Tool: Boeing-Video,0,0,0
+d4e8a2ffb6d2487d81f32755f54763a1,-2377.1985f,381.3855f,MITxPRO+AMxB+1T2018,html,274,824,1795,Week 3: Applications of Additive Manufacturing (5 hrs),Ergonomic Thumb Cot: BMW-Html,11,11,22
+710ef03139064547b922337168273519,-2393.5894f,343.11554f,MITxPRO+AMxB+1T2018,html,275,822,2106,Week 3: Applications of Additive Manufacturing (5 hrs),Cutting Tools: Mapal-Html,20,15,35
+497ff981f4384b3897c43a1b51306d5d,-2400.7239f,278.72055f,MITxPRO+AMxB+1T2018,html,276,813,2198,Week 3: Applications of Additive Manufacturing (5 hrs),Mold Tooling-Html,31,17,48
+a8a6f24cb40a41c9bdc03d5c03dd8b0f,-2436.2036f,345.8177f,MITxPRO+AMxB+1T2018,video,277,608,2541,Week 3: Applications of Additive Manufacturing (5 hrs),Mold Tooling-Video,5,8,13
+db237ab31dde4fc79528b05fdc509093,-2211.4734f,333.62433f,MITxPRO+AMxB+1T2018,html,278,7,10,Week 3: Applications of Additive Manufacturing (5 hrs),Mold Tooling-Html,0,1,1
+2c4f75b4b1b14a188818a152373f8937,-2443.594f,303.84024f,MITxPRO+AMxB+1T2018,video,279,651,4421,Week 3: Applications of Additive Manufacturing (5 hrs),Mold Tooling-Video,4,8,12
+b2fb985942164114bc97d28d44392f36,-2621.706f,274.38968f,MITxPRO+AMxB+1T2018,html,280,18,26,Week 3: Applications of Additive Manufacturing (5 hrs),Mold Tooling-Html,3,2,5
+435c50e639064849be9ac4671ceaf812,-2385.5938f,192.0461f,MITxPRO+AMxB+1T2018,html,281,814,3533,Week 3: Applications of Additive Manufacturing (5 hrs),"Conformal Cooling: Renishaw, EOS-Html",16,16,32
+38339eee0f2d4f3e95160fb4f1e6f866,-2414.1968f,233.50017f,MITxPRO+AMxB+1T2018,video,282,638,4200,Week 3: Applications of Additive Manufacturing (5 hrs),"Conformal Cooling: Renishaw, EOS-Video",4,8,12
+de09416fa74b4a74a17fa0aa35623cd5,-1764.342f,1525.961f,MITxPRO+AMxB+1T2018,html,283,5,7,Week 3: Applications of Additive Manufacturing (5 hrs),"Conformal Cooling: Renishaw, EOS-Html",0,0,0
+5c5e14d8f5954d3cb439d07763a828be,-2173.592f,262.32233f,MITxPRO+AMxB+1T2018,html,284,9,10,Week 3: Applications of Additive Manufacturing (5 hrs),"Conformal Cooling: Renishaw, EOS-Html",0,1,1
+d2749283e4b340d0afecbf669539f1fd,-2633.7556f,419.86758f,MITxPRO+AMxB+1T2018,html,285,75,140,Week 3: Applications of Additive Manufacturing (5 hrs),Modular Vacuum Mold Tool: Boeing-Html,8,10,18
+9e71015683e549b5b13c178144b1531f,-2339.5178f,191.39606f,MITxPRO+AMxB+1T2018,video,286,698,3364,Week 3: Applications of Additive Manufacturing (5 hrs),Modular Vacuum Mold Tool: Boeing-Modular Vacuum Mold Tool,7,13,20
+c559d7857b074363b531f217af72e550,-2374.886f,142.1313f,MITxPRO+AMxB+1T2018,html,287,841,2970,Week 3: Applications of Additive Manufacturing (5 hrs),Performance Improvement: Introduction-Html,37,27,64
+546eff2213874a0cbc23226674b6f319,-2366.906f,89.16671f,MITxPRO+AMxB+1T2018,html,288,814,1686,Week 3: Applications of Additive Manufacturing (5 hrs),RF Antennas: Optisys-Html,11,8,19
+e18a31353b7449269f22f20c5df9c811,-2360.3367f,53.622456f,MITxPRO+AMxB+1T2018,html,289,802,1607,Week 3: Applications of Additive Manufacturing (5 hrs),Heat Exchangers-Html,10,9,19
+f5370532182c49ceb5391472d9b0ecdf,-2351.3496f,13.935625f,MITxPRO+AMxB+1T2018,html,290,838,2247,Week 3: Applications of Additive Manufacturing (5 hrs),Gas Turbines: Siemens-Html,17,11,28
+3a554abb22514705b007afaefd8b4dbe,-2378.1677f,-20.836477f,MITxPRO+AMxB+1T2018,video,291,710,3896,Week 3: Applications of Additive Manufacturing (5 hrs),Gas Turbines: Siemens-Video,4,9,13
+64b053502090498e8d5288c1c54d446c,-2093.9863f,150.38931f,MITxPRO+AMxB+1T2018,html,292,10,13,Week 3: Applications of Additive Manufacturing (5 hrs),Gas Turbines: Siemens-Html,0,1,1
+a53b7c4751e54b6ba92d7d717d7832b4,-2334.539f,-27.449553f,MITxPRO+AMxB+1T2018,html,293,796,2199,Week 3: Applications of Additive Manufacturing (5 hrs),Hip Implant Acetabular Cups-Html,15,10,25
+161d2152d71f49ba83c179bd4e9776a9,-2292.5872f,-28.95618f,MITxPRO+AMxB+1T2018,video,294,628,2903,Week 3: Applications of Additive Manufacturing (5 hrs),Hip Implant Acetabular Cups-Hip Implants ,4,8,12
+78f63de28aca4369bd546952a12d5a3a,-2250.1726f,663.9532f,MITxPRO+AMxB+1T2018,html,295,5,5,Week 3: Applications of Additive Manufacturing (5 hrs),Hip Implant Acetabular Cups-Html,0,0,0
+782ff5a3836649daac5744758b0831b0,-1378.1682f,-341.61035f,MITxPRO+AMxB+1T2018,html,296,10,15,Week 3: Applications of Additive Manufacturing (5 hrs),Hip Implant Acetabular Cups-Html,1,1,2
+c7f66c9d94af4eb79199eb210b254651,-2306.7126f,-76.38303f,MITxPRO+AMxB+1T2018,html,297,832,4021,Week 3: Applications of Additive Manufacturing (5 hrs),Part Consolidation: GE Aviation-Html,18,23,41
+a7de78439b5c42efa09209a47de6e960,-2344.3647f,-103.75576f,MITxPRO+AMxB+1T2018,video,298,694,3047,Week 3: Applications of Additive Manufacturing (5 hrs),Part Consolidation: GE Aviation-Part Consolidation: General Electric ,6,9,15
+5f4a737d4d744b21a68e7f81caaaa00c,-2264.8918f,-148.8689f,MITxPRO+AMxB+1T2018,problem,299,878,10870,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 1,94,71,165
+cd8f0da1ce0040ce994e2bf3c1a061fa,-2363.226f,-163.57346f,MITxPRO+AMxB+1T2018,problem,300,854,3301,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 2,10,14,24
+455f653fdfbb43baabd2860fcd435d8e,-2419.8198f,-169.07048f,MITxPRO+AMxB+1T2018,problem,301,847,4890,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 3,12,20,32
+9266f5048e2648e8a0dcea19009c7c92,-2422.8928f,-227.39409f,MITxPRO+AMxB+1T2018,problem,302,842,4304,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 4,11,18,29
+6d9d7fa80bb24111ac8b77071d6b072d,-2366.9197f,-239.51158f,MITxPRO+AMxB+1T2018,problem,303,843,4333,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 5,9,18,27
+d8c12f5115f843179f92f6a018e05dc8,-2305.643f,-250.29723f,MITxPRO+AMxB+1T2018,problem,304,842,5065,Week 3: Applications of Additive Manufacturing (5 hrs),Concept Questions-Question 6,13,26,39
+bd6795cfc41241159ab06425ce1bf3d7,-2212.903f,-268.79578f,MITxPRO+AMxB+1T2018,html,305,825,2383,Week 3: Applications of Additive Manufacturing (5 hrs),Production: Introduction-Html,33,33,66
+8623fd98364040069d25c8e158c77fff,-2177.5068f,-385.8524f,MITxPRO+AMxB+1T2018,html,306,765,1453,Week 3: Applications of Additive Manufacturing (5 hrs),787 Galley Fitting: Boeing-Html,17,10,27
+c1decbb7d1cc46d3b662207a884ac71e,-2164.9597f,-430.10974f,MITxPRO+AMxB+1T2018,video,307,683,3473,Week 3: Applications of Additive Manufacturing (5 hrs),787 Galley Fitting: Boeing-787 Galley Fitting ,8,13,21
+c26ae7f6e4004d36a959daa7448fab45,-2145.0593f,-471.23605f,MITxPRO+AMxB+1T2018,html,308,736,1393,Week 3: Applications of Additive Manufacturing (5 hrs),Performance Sneakers: adidas-Html,13,12,25
+10851985f5a44e618592bad22e719a80,-2131.202f,-509.5584f,MITxPRO+AMxB+1T2018,video,309,590,3197,Week 3: Applications of Additive Manufacturing (5 hrs),Performance Sneakers: adidas-Futurecraft Sneakers,4,7,11
+305d151f07e84e62933b3f7ca7498b37,-2050.096f,-723.2065f,MITxPRO+AMxB+1T2018,html,310,7,12,Week 3: Applications of Additive Manufacturing (5 hrs),Performance Sneakers: adidas-Html,0,1,1
+61726452154f4dfb8d7de5fbf5555548,-2101.0115f,-537.46765f,MITxPRO+AMxB+1T2018,html,311,729,1427,Week 3: Applications of Additive Manufacturing (5 hrs),Hinge Bracket: BMW-Html,17,13,30
+dc5e8bc347d747b0903d532e2eb2b2ab,-2087.339f,-574.3942f,MITxPRO+AMxB+1T2018,video,312,591,2925,Week 3: Applications of Additive Manufacturing (5 hrs),Hinge Bracket: BMW-BMW i8 hinge bracket,3,5,8
+a1f114304978438cb641a1b5d486f4e3,-2267.8176f,799.39484f,MITxPRO+AMxB+1T2018,html,313,4,5,Week 3: Applications of Additive Manufacturing (5 hrs),Hinge Bracket: BMW-Html,0,0,0
+62cbc113929543d38366051588f49388,331.6661f,1410.2433f,MITxPRO+AMxB+1T2018,html,314,6,8,Week 3: Applications of Additive Manufacturing (5 hrs),Hinge Bracket: BMW-Html,0,0,0
+4582c3c3aaca48bd9946e825dcad6a65,-2049.9714f,-568.09204f,MITxPRO+AMxB+1T2018,html,315,714,1330,Week 3: Applications of Additive Manufacturing (5 hrs),Brake Caliper: Bugatti Chiron-Html,11,9,20
+968d0ef03f3e4528957b15a5a2d9d88e,-2021.7733f,-591.4843f,MITxPRO+AMxB+1T2018,video,316,591,2292,Week 3: Applications of Additive Manufacturing (5 hrs),Brake Caliper: Bugatti Chiron-Selective Laser Melting of the Bugatti Chiron Brake Caliper,4,6,10
+83e10dd54b124d7e9da59881a2f7557a,-1987.578f,-576.6889f,MITxPRO+AMxB+1T2018,html,317,723,1318,Week 3: Applications of Additive Manufacturing (5 hrs),Mascara Brush: Chanel-Html,12,12,24
+0809efd87b0c45139a1edc4cc58fd1f5,-1945.4252f,-570.2797f,MITxPRO+AMxB+1T2018,html,318,719,2454,Week 3: Applications of Additive Manufacturing (5 hrs),Large Sand Castings: VoxelJet-Html,13,14,27
+d1651d2f65e9428693a519450d5f321f,-1902.8492f,-563.5793f,MITxPRO+AMxB+1T2018,html,319,757,1961,Week 3: Applications of Additive Manufacturing (5 hrs),Customization and Personalization: Introduction-Html,25,22,47
+b493f3f110234cfdabab9fc55ba06661,-1860.8488f,-542.5646f,MITxPRO+AMxB+1T2018,html,320,732,1338,Week 3: Applications of Additive Manufacturing (5 hrs),Orthodontic Retainers: Align Technology-Html,12,10,22
+0388b15dc0a94dd4a553c1df67123109,-1826.1104f,-529.1331f,MITxPRO+AMxB+1T2018,video,321,597,2650,Week 3: Applications of Additive Manufacturing (5 hrs),Orthodontic Retainers: Align Technology-Video,3,6,9
+8a99f0d5d8164c528a85554f9184271b,-1881.6771f,-710.56036f,MITxPRO+AMxB+1T2018,html,322,9,14,Week 3: Applications of Additive Manufacturing (5 hrs),Orthodontic Retainers: Align Technology-Html,1,1,2
+ab522985e16d436a970f0eda5c9a1591,-1799.5463f,-501.6982f,MITxPRO+AMxB+1T2018,html,323,725,1265,Week 3: Applications of Additive Manufacturing (5 hrs),Hearing Aids-Html,10,9,19
+eb58bfe7027d4f70912c319251e6e417,-1773.4595f,-477.68982f,MITxPRO+AMxB+1T2018,html,324,712,1242,Week 3: Applications of Additive Manufacturing (5 hrs),Custom Induction Coils: Protiq-Html,10,10,20
+0c92f804b6ee498091114e20947b5ca4,-1748.5063f,-450.19174f,MITxPRO+AMxB+1T2018,html,325,717,1286,Week 3: Applications of Additive Manufacturing (5 hrs),Tabletop Figurines: Heroforge-Html,10,11,21
+2352eea7a7014e7990cfd2e3470795a2,-1723.2213f,-418.127f,MITxPRO+AMxB+1T2018,html,326,714,2269,Week 3: Applications of Additive Manufacturing (5 hrs),Three-Dimensional Photography: 3D Bean-Html,11,13,24
+7d04272687d34281b60b3377d46cd231,-1699.1542f,-385.47488f,MITxPRO+AMxB+1T2018,html,327,731,1794,Week 3: Applications of Additive Manufacturing (5 hrs),"Spare Parts, Maintenance, and Repair: Introduction-Html",19,13,32
+29df4d70694a4f5fb9cf4a296c9d6826,-1675.0767f,-345.8253f,MITxPRO+AMxB+1T2018,video,328,617,2857,Week 3: Applications of Additive Manufacturing (5 hrs),"Spare Parts, Maintenance, and Repair: Introduction-Additive Manufacturing for Spare Parts",5,9,14
+0121a1bd90774a95a014f487a3717bd8,-1791.7535f,-818.99774f,MITxPRO+AMxB+1T2018,html,329,9,11,Week 3: Applications of Additive Manufacturing (5 hrs),"Spare Parts, Maintenance, and Repair: Introduction-Html",1,1,2
+9438fe68ef4f44b59d9db9d73ba452a4,-1654.3007f,-312.0764f,MITxPRO+AMxB+1T2018,html,330,708,1232,Week 3: Applications of Additive Manufacturing (5 hrs),Automotive Spare Parts-Html,7,7,14
+98a13e95e8484ecb9727be0d96c5a670,-1633.8208f,-279.4724f,MITxPRO+AMxB+1T2018,html,331,707,2367,Week 3: Applications of Additive Manufacturing (5 hrs),Part-Specific and  On-Site Repair-Html,9,12,21
+ac6a1998c3db4a88b5643136a44d3d1a,-1594.2467f,-290.18802f,MITxPRO+AMxB+1T2018,video,332,566,2244,Week 3: Applications of Additive Manufacturing (5 hrs),Part-Specific and  On-Site Repair-Video,4,6,10
+78f68e137a55485cb62647f60c158317,-1552.1052f,-412.65012f,MITxPRO+AMxB+1T2018,html,333,6,16,Week 3: Applications of Additive Manufacturing (5 hrs),Part-Specific and  On-Site Repair-Html,1,1,2
+fbff5d65e2ba477286d4f60832b5cbe1,-1607.8855f,-248.04099f,MITxPRO+AMxB+1T2018,html,334,729,1829,Week 3: Applications of Additive Manufacturing (5 hrs),"Art, Design, and Architecture: Introduction-Html",20,15,35
+ead01d2798b845a98cc82df187be0915,-1578.0479f,-204.26573f,MITxPRO+AMxB+1T2018,html,335,732,1356,Week 3: Applications of Additive Manufacturing (5 hrs),Generatively Designed Jewelry and Decor-Html,14,11,25
+176c36fa520e4f7eb03738c18bd564a5,-1554.4595f,-173.38026f,MITxPRO+AMxB+1T2018,html,336,707,1329,Week 3: Applications of Additive Manufacturing (5 hrs),Film and Television-Html,11,9,20
+96581c65b3ca4b6a8611a54a81f6c844,-1531.0143f,-142.72829f,MITxPRO+AMxB+1T2018,video,337,554,2216,Week 3: Applications of Additive Manufacturing (5 hrs),Film and Television-Video,4,9,13
+6ee5ec7b3f0a4b75b2228bf19a1c6d28,-1573.3812f,-608.9373f,MITxPRO+AMxB+1T2018,html,338,8,10,Week 3: Applications of Additive Manufacturing (5 hrs),Film and Television-Html,1,1,2
+59f55814532344b59eacd921b45a34d4,-1505.3542f,-112.28884f,MITxPRO+AMxB+1T2018,html,339,697,1301,Week 3: Applications of Additive Manufacturing (5 hrs),Clothing and Fashion-Html,11,12,23
+f1bcf42b778e4691b9e5823e206a61a3,-1479.6211f,-81.66431f,MITxPRO+AMxB+1T2018,html,340,692,1308,Week 3: Applications of Additive Manufacturing (5 hrs),Home Decor and Furniture-Html,12,10,22
+d44751eae0bb47188bbbdafaa7b01c28,-326.32742f,-2049.3813f,MITxPRO+AMxB+1T2018,html,341,7,10,Week 3: Applications of Additive Manufacturing (5 hrs),Home Decor and Furniture-Html,0,0,0
+25a652b137614112a1fc8861fb291181,-1454.1252f,-52.10829f,MITxPRO+AMxB+1T2018,video,342,535,2046,Week 3: Applications of Additive Manufacturing (5 hrs),Home Decor and Furniture-Video,4,6,10
+1cbb871d83ac466bb5ff53794083240e,-1392.7954f,12.612359f,MITxPRO+AMxB+1T2018,html,343,692,2358,Week 3: Applications of Additive Manufacturing (5 hrs),Architecture and Construction-Html,12,12,24
+b5ebc521efe845139d8f9ef87cac6112,-1469.0319f,-460.29388f,MITxPRO+AMxB+1T2018,html,344,13,16,Week 3: Applications of Additive Manufacturing (5 hrs),Architecture and Construction-Html,1,1,2
+c7f074fbe8cc441e8a7ced30f9999dfa,-1416.9962f,44.28171f,MITxPRO+AMxB+1T2018,video,345,544,2034,Week 3: Applications of Additive Manufacturing (5 hrs),Architecture and Construction-Video,5,6,11
+60fdad9fc19541e3b135991de184af75,-1361.6605f,54.984882f,MITxPRO+AMxB+1T2018,html,346,753,3181,Week 3: Applications of Additive Manufacturing (5 hrs),A Framework for Evaluating the Adoption of AM-Html,30,31,61
+b9efe6f2b024489bb02fc090d4a17a65,-1316.827f,27.181385f,MITxPRO+AMxB+1T2018,video,347,658,4024,Week 3: Applications of Additive Manufacturing (5 hrs),A Framework for Evaluating the Adoption of AM-A Framework for Evaluating the Adoption of AM,11,10,21
+340356a09f564f4e96c7d91d8271accb,-1252.0616f,-68.66675f,MITxPRO+AMxB+1T2018,html,348,61,97,Week 3: Applications of Additive Manufacturing (5 hrs),A Framework for Evaluating the Adoption of AM-Html,6,6,12
+2bbb47defdd44b6e95be6aff50d550d1,-1222.3135f,164.6297f,MITxPRO+AMxB+1T2018,html,349,898,8591,Week 3: Applications of Additive Manufacturing (5 hrs),Instructions and Assignment-Html,156,102,258
+f261241e0f5c429bba37335f9c8a71e0,-1452.586f,266.82956f,MITxPRO+AMxB+1T2018,html,350,173,240,Week 3: Applications of Additive Manufacturing (5 hrs),Instructions and Assignment-Html,7,14,21
+c7a736e53c6341f684a77474fbbbe64f,-1275.1172f,382.5213f,MITxPRO+AMxB+1T2018,video,351,797,35156,Week 3: Applications of Additive Manufacturing (5 hrs),Instructions and Assignment-How It's Made: Pasta Dies,35,64,99
+98170a572e6644028150554eb5722cb4,-1103.4839f,286.56836f,MITxPRO+AMxB+1T2018,openassessment,352,688,12989,Week 3: Applications of Additive Manufacturing (5 hrs),Instructions and Assignment-Open Response Assessment,56,74,130
+d8a02e7515a74c9998f997f6df75771d,-886.3706f,-158.38208f,MITxPRO+AMxB+1T2018,html,353,882,4183,Weeks 4-5: An Introduction to Design for AM (10 min),An Introduction to Design for AM-Html,72,58,130
+71c4fd1a1eab4d00b0d4ae1bb725ef5a,-858.6781f,-238.3547f,MITxPRO+AMxB+1T2018,video,354,801,6746,Weeks 4-5: An Introduction to Design for AM (10 min),An Introduction to Design for AM-Design for AM: Introduction,8,14,22
+44abedc27bd74e82b52d8dbede63bcdc,-767.13745f,-104.98086f,MITxPRO+AMxB+1T2018,html,355,52,71,Weeks 4-5: An Introduction to Design for AM (10 min),An Introduction to Design for AM-Html,5,5,10
+1c671d329ded428288dd93458a0a2667,-784.3764f,-421.407f,MITxPRO+AMxB+1T2018,html,356,854,2581,Weeks 4-5: An Introduction to Design for AM (10 min),The Structure of Weeks 4-5-Html,12,15,27
+aa516ea305b74209ad16d2533b32050c,-754.91986f,-475.00128f,MITxPRO+AMxB+1T2018,html,357,712,3350,Weeks 4-5: An Introduction to Design for AM (10 min),Software Tutorials-Html,41,38,79
+86ec6deb59e74e3fbe85c975ab09e4fe,-617.9174f,-270.69653f,MITxPRO+AMxB+1T2018,html,358,22,38,Weeks 4-5: An Introduction to Design for AM (10 min),Software Tutorials-IFrame Tool,3,4,7
+7d62e87889ed4954bf9c388d171ee30a,-660.1558f,-393.49292f,MITxPRO+AMxB+1T2018,html,359,91,195,Weeks 4-5: An Introduction to Design for AM (10 min),Software Tutorials-IFrame Tool,8,8,16
+f06cfae5902b4db099f1844f9dcad801,-741.8468f,-554.6778f,MITxPRO+AMxB+1T2018,html,360,864,4985,Weeks 4-5: The AM Design Space (195 min),Envisioning the AM Design Space-Html,45,35,80
+d07f5cabb83841ebb911eb33d653a517,-810.86414f,-549.3262f,MITxPRO+AMxB+1T2018,video,361,799,7093,Weeks 4-5: The AM Design Space (195 min),Envisioning the AM Design Space-The AM Design Space,9,11,20
+bfbf924018314d4fa3a626a8507b8d90,-625.63684f,-461.57004f,MITxPRO+AMxB+1T2018,html,362,31,41,Weeks 4-5: The AM Design Space (195 min),Envisioning the AM Design Space-Html,3,3,6
+98032f7703934ecc960828e8931290bd,-783.6546f,-599.3951f,MITxPRO+AMxB+1T2018,video,363,790,4157,Weeks 4-5: The AM Design Space (195 min),Envisioning the AM Design Space-Stages of DfAM Adoption (Prof. Tim Simpson),8,9,17
+05800c2e685141ecb48fe59b499d84b6,-726.1303f,-635.9326f,MITxPRO+AMxB+1T2018,html,364,860,4109,Weeks 4-5: The AM Design Space (195 min),Introduction-Html,40,35,75
+f151b1920ab84738857f2e5a6ccdff85,-703.95856f,-723.0096f,MITxPRO+AMxB+1T2018,html,365,851,2947,Weeks 4-5: The AM Design Space (195 min),Process Performance Metrics-Html,34,24,58
+93168ca1ec6a4944b57d75ac98797c0b,-691.8243f,-777.14856f,MITxPRO+AMxB+1T2018,html,366,851,2718,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Polymers-Html,19,19,38
+06b02d057d574f24a6cac30186bf0bf2,-674.408f,-862.5293f,MITxPRO+AMxB+1T2018,html,367,866,5159,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Metals-Html,50,51,101
+5982f524a99e420f8aeee7d90187dd55,-628.27057f,-914.34344f,MITxPRO+AMxB+1T2018,video,368,776,7961,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Metals-Basic Mechanics of Metals,8,13,21
+4f37a9d9ffc24f5e82cc2cb1409df6f3,-491.37268f,-1041.5778f,MITxPRO+AMxB+1T2018,html,369,39,51,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Metals-Html,4,5,9
+2ffd17accc734a7b833cff39cca5c9f9,-997.81024f,-843.3788f,MITxPRO+AMxB+1T2018,html,370,46,61,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Metals-Html,4,5,9
+cee509fdc136413c8c3e182d487c2b86,-699.2837f,-936.1912f,MITxPRO+AMxB+1T2018,html,371,829,3505,Weeks 4-5: The AM Design Space (195 min),Process-Specific Design Principles-Html,32,27,59
+ad02db4c9df74936a7ecf964b1697197,-847.3746f,-1180.1088f,MITxPRO+AMxB+1T2018,html,372,818,4036,Weeks 4-5: The AM Design Space (195 min),The 3DMIT Design Kit-Html,21,29,50
+65596489f9b542e490757e53a60af97c,-888.87964f,-1139.1082f,MITxPRO+AMxB+1T2018,video,373,765,6630,Weeks 4-5: The AM Design Space (195 min),The 3DMIT Design Kit-The 3DMIT Design Kit,8,15,23
+34037bd4b27b40fc8bf9bbaf818a3e43,-1205.9938f,-923.4584f,MITxPRO+AMxB+1T2018,html,374,43,63,Weeks 4-5: The AM Design Space (195 min),The 3DMIT Design Kit-Html,7,5,12
+57b361f6d4ca424299264c668e836e47,-903.1193f,-1257.6614f,MITxPRO+AMxB+1T2018,html,375,858,7783,Weeks 4-5: The AM Design Space (195 min),Investigating the 3DMIT Kit-Html,124,85,209
+5a6ade785e5944dc9bba9be67da62d09,-1310.6359f,-1138.4949f,MITxPRO+AMxB+1T2018,html,376,44,68,Weeks 4-5: The AM Design Space (195 min),Investigating the 3DMIT Kit-Html,4,3,7
+7afbe0f3ab05461ab5a3765ad3631052,-1018.07214f,-1318.6514f,MITxPRO+AMxB+1T2018,html,377,853,4151,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Html,76,53,129
+7a2bcd65cf024f3684c99f341cb74362,-1129.1726f,-1248.4323f,MITxPRO+AMxB+1T2018,problem,378,777,4511,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Question 1,28,24,52
+0b8e4be0cef9409cabbce305b9eb4e11,-1188.0328f,-1260.41f,MITxPRO+AMxB+1T2018,problem,379,768,3156,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Question 2,11,11,22
+e90f5c8e7b2e449b8d756039eeb35852,-1220.9646f,-1294.2817f,MITxPRO+AMxB+1T2018,problem,380,768,3292,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Question 3,9,10,19
+a51bda095c98420a93e81d2dec7e2961,-1213.6031f,-1339.0914f,MITxPRO+AMxB+1T2018,problem,381,766,2822,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Question 4,9,11,20
+fff3e875d114460785d458c9a20db4c4,-1179.8479f,-1382.1068f,MITxPRO+AMxB+1T2018,problem,382,764,4830,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Lobby-Question 5,19,13,32
+3a32d27772ce468e941a09b8dd76aec3,-1134.8059f,-1454.9773f,MITxPRO+AMxB+1T2018,html,383,826,3529,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Html,48,37,85
+5b07632f8a4b448a97fc1841e9822fa4,-1260.6079f,-1492.2942f,MITxPRO+AMxB+1T2018,problem,384,752,4150,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 1,14,21,35
+0956212ccaac4df68948e45a10dbb1d4,-1319.5791f,-1506.6667f,MITxPRO+AMxB+1T2018,problem,385,753,3184,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 2,15,13,28
+519ecd71e1c5481cba184e5d6ed7f2ac,-1444.757f,-1369.3223f,MITxPRO+AMxB+1T2018,html,386,47,90,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Html,5,9,14
+17d557337c9c42d3b5b9b1220d2a8b07,-1363.7797f,-1529.949f,MITxPRO+AMxB+1T2018,problem,387,765,2664,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 3,9,17,26
+5bf5e2b4dc7542a7a5ccf3afb1e9e3c0,-1365.4885f,-1584.0963f,MITxPRO+AMxB+1T2018,problem,388,749,4050,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 4,17,15,32
+577e63c5db5f4ce08d3b9fd4bc253192,-1316.7793f,-1614.7042f,MITxPRO+AMxB+1T2018,problem,389,741,4074,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 5,13,12,25
+2855e7a0df954abaa30be35826f21bbc,-1266.9938f,-1625.1719f,MITxPRO+AMxB+1T2018,problem,390,748,2834,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 6,10,14,24
+f0e8270c2e6d4b9093c9d434401f1080,-1215.8817f,-1631.6462f,MITxPRO+AMxB+1T2018,problem,391,740,4122,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Portico-Question 7,10,12,22
+c3dc70e138fc4f9a8ef62602347dfd2d,-1132.4774f,-1648.0917f,MITxPRO+AMxB+1T2018,html,392,810,2720,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Html,32,25,57
+4c6bbce728d64d46b615252950aa99c5,-1179.3345f,-1754.261f,MITxPRO+AMxB+1T2018,problem,393,733,3840,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 1,16,15,31
+b302b1e3680b47bcb5aea5e985dcd0ce,-1205.5925f,-1803.7589f,MITxPRO+AMxB+1T2018,problem,394,732,3453,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 2,12,12,24
+15335471891841108d686d567db618a6,-1217.1544f,-1853.4313f,MITxPRO+AMxB+1T2018,problem,395,735,3448,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 3,10,14,24
+cf9c03aed3cc46cab0d3d363b36d4a3f,-1197.0631f,-1902.7081f,MITxPRO+AMxB+1T2018,problem,396,732,4118,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 4,13,14,27
+b8e69ef94fbb4d51b4a8420c4ba7d94c,-1147.9039f,-1923.0883f,MITxPRO+AMxB+1T2018,problem,397,730,3536,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 5,11,12,23
+80fee6d1156d4c2285bb094b6759c96b,-1101.4059f,-1908.4171f,MITxPRO+AMxB+1T2018,problem,398,732,3095,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 6,9,12,21
+5515b1ce594c44018624eba452487dd8,-1062.074f,-1879.3693f,MITxPRO+AMxB+1T2018,problem,399,735,3354,Weeks 4-5: The AM Design Space (195 min),Concept Questions: 3DMIT Dome-Question 7,13,11,24
+de6931cbf03f4c25a93022f69f40e59d,-900.84436f,-1757.2489f,MITxPRO+AMxB+1T2018,html,400,812,6497,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Html,33,40,73
+aad06a85014b41a4a81a735ef2aa3af7,-866.16974f,-1822.7316f,MITxPRO+AMxB+1T2018,problem,401,731,3119,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Question 1,9,11,20
+33e3d11404154320b5548507b3627617,-850.9225f,-1866.7808f,MITxPRO+AMxB+1T2018,problem,402,731,3213,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Question 2,8,11,19
+8b88b65b13a6434c86a069af38d754e9,-871.8561f,-1910.5476f,MITxPRO+AMxB+1T2018,problem,403,729,3918,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Question 3,7,13,20
+0e554069f4c04108abd5c2b1e02bb8df,-925.9786f,-1903.1011f,MITxPRO+AMxB+1T2018,problem,404,722,4208,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Question 4,17,16,33
+3bc7c0a659644f1994fb732fdb44695c,-925.05707f,-1846.1931f,MITxPRO+AMxB+1T2018,problem,405,724,3643,Weeks 4-5: The AM Design Space (195 min),Concept Questions: Integrative Process Principles-Question 5,11,14,25
+b31aa53037a74719ba3eb845306e4374,-831.08026f,-1732.7234f,MITxPRO+AMxB+1T2018,html,406,824,4796,Weeks 4-5: The AM Design Space (195 min),Introduction-Html,38,45,83
+75140a4c4a7248179d04fa2a1ab985d5,-773.0185f,-1717.01f,MITxPRO+AMxB+1T2018,html,407,785,1865,Weeks 4-5: The AM Design Space (195 min),Lattice Types and Cell Geometries-Html,11,10,21
+13d1f65fede84bdcb51f77e7f6419a99,-730.25757f,-1703.6884f,MITxPRO+AMxB+1T2018,html,408,782,1854,Weeks 4-5: The AM Design Space (195 min),Mechanical Properties of AM Lattices-Html,12,13,25
+916c4d42d9ae47d5bff2c22d55e56769,-688.828f,-1688.6094f,MITxPRO+AMxB+1T2018,html,409,781,2890,Weeks 4-5: The AM Design Space (195 min),Software Tools and References-Html,10,13,23
+4e2af15f0e154332990f5c331e2c073a,-645.0662f,-1671.1097f,MITxPRO+AMxB+1T2018,html,410,812,3578,Weeks 4-5: Data Representation and Build Preparation (105 min),Introduction-Html,22,19,41
+7a1a2c4aab5241b785fdaf08add5fdf5,-608.3464f,-1637.1915f,MITxPRO+AMxB+1T2018,html,411,834,3465,Weeks 4-5: Data Representation and Build Preparation (105 min),STL Files-Html,25,16,41
+604cd4d206d940269789ea412845f1e8,-565.65765f,-1649.0277f,MITxPRO+AMxB+1T2018,html,412,823,2609,Weeks 4-5: Data Representation and Build Preparation (105 min),AMF/3MF Files-Html,9,7,16
+22b9e7f1eabc4cb28d8af1feaa0bc27d,-536.3599f,-1598.0931f,MITxPRO+AMxB+1T2018,problem,413,834,6790,Weeks 4-5: Data Representation and Build Preparation (105 min),Concept Questions-Question 1,19,21,40
+40671f6f48fb4803989d7bf3864904e2,-515.30585f,-1656.2058f,MITxPRO+AMxB+1T2018,problem,414,800,3424,Weeks 4-5: Data Representation and Build Preparation (105 min),Concept Questions-Question 2,8,10,18
+47ab5c72ed4f4a38a6f760e0bfa008f2,-476.33832f,-1632.9647f,MITxPRO+AMxB+1T2018,problem,415,799,3284,Weeks 4-5: Data Representation and Build Preparation (105 min),Concept Questions-Question 3,7,9,16
+a653f4a798964771b51fbc7cb8a7a276,-480.92722f,-1586.8032f,MITxPRO+AMxB+1T2018,problem,416,797,3241,Weeks 4-5: Data Representation and Build Preparation (105 min),Concept Questions-Question 4,7,11,18
+611f718731804acf8b5f757f24bcdf64,-513.8303f,-1547.8f,MITxPRO+AMxB+1T2018,html,417,803,1938,Weeks 4-5: Data Representation and Build Preparation (105 min),Introduction-Html,15,18,33
+797a6e6ad6a9498396d577b377aec258,-301.8893f,-841.5296f,MITxPRO+AMxB+1T2018,html,418,759,1318,Weeks 4-5: Data Representation and Build Preparation (105 min),Vector Toolpaths-Html,6,6,12
+2e48e055fb4146e9b149086c1385037d,-292.78458f,-809.3136f,MITxPRO+AMxB+1T2018,html,419,758,1301,Weeks 4-5: Data Representation and Build Preparation (105 min),Raster Toolpaths-Html,5,7,12
+51c336e9fc974fe6b345ef354ed29bbb,-282.54495f,-770.96454f,MITxPRO+AMxB+1T2018,html,420,759,2418,Weeks 4-5: Data Representation and Build Preparation (105 min),G-Code-Html,7,9,16
+6a3fd2c28384465589f148598410fbdd,-270.33713f,-725.2897f,MITxPRO+AMxB+1T2018,html,422,767,2350,Weeks 4-5: Data Representation and Build Preparation (105 min),Materialise Magics-Html,25,18,43
+90efb799135b4a83860d413d182e62af,-259.54016f,-668.76166f,MITxPRO+AMxB+1T2018,video,423,642,7384,Weeks 4-5: Data Representation and Build Preparation (105 min),Materialise Magics-Materialise Magics Demonstration Video,6,9,15
+45fb3c2b451642e89378499970aaaf15,-212.41397f,-438.3365f,MITxPRO+AMxB+1T2018,html,424,753,2865,Weeks 4-5: Data Representation and Build Preparation (105 min),Ultimaker Cura-Html,8,13,21
+8fba3f66ee7a4a218d411662d248a54d,-256.0697f,-463.248f,MITxPRO+AMxB+1T2018,video,425,604,5878,Weeks 4-5: Data Representation and Build Preparation (105 min),Ultimaker Cura-Ultimaker Cura Demonstration,7,10,17
+ca8aac0be163430e8baaad776c32ddd2,-205.23874f,-385.3757f,MITxPRO+AMxB+1T2018,html,426,812,3208,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Defining the Design and Performance Space-Html,49,28,77
+e07603058e9043579d9f2f17be10b866,-189.1004f,-320.1893f,MITxPRO+AMxB+1T2018,video,427,723,6054,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Defining the Design and Performance Space-Defining the Design and Performance Space,8,10,18
+0da137981c784fff80a5768bc626dca7,-186.34566f,-254.1811f,MITxPRO+AMxB+1T2018,html,428,795,4168,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Formulation and Implementation of Topology Optimization-Html,24,26,50
+e588e625f78049a5aed0c685e1fc9500,-248.95625f,-266.27643f,MITxPRO+AMxB+1T2018,video,429,720,7531,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Formulation and Implementation of Topology Optimization-The Inverse Problem and Formulation of Topology Optimization,12,11,23
+abdacc6701224360a3f86b8be3f366bf,-236.30556f,-203.64868f,MITxPRO+AMxB+1T2018,video,430,703,7603,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Formulation and Implementation of Topology Optimization-The SIMP Method of Topology Optimization,10,14,24
+202fe760f26e4bd7a5a9cd1926e3f678,-154.073f,-205.04858f,MITxPRO+AMxB+1T2018,html,431,793,4612,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Introduction-Html,23,26,49
+3e3428242983494095b0d25bad62a657,-181.49852f,-150.29404f,MITxPRO+AMxB+1T2018,video,432,697,5326,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Introduction-Computatiol Design of a High-Performance Wheel,11,13,24
+91b21144d1b5408d956b8a08c06ead48,19.346949f,272.3425f,MITxPRO+AMxB+1T2018,html,433,26,31,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Introduction-Html,3,3,6
+fed8304bb7184050aaaa4d9ab2089745,-212.4449f,209.84357f,MITxPRO+AMxB+1T2018,html,434,31,38,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Introduction-IFrame Tool,3,3,6
+064f627c77a54926aac5e4c6b665a883,-90.91087f,-160.56325f,MITxPRO+AMxB+1T2018,problem,435,831,7818,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Concept Questions-Question 1,61,48,109
+efb26d7be5e646dca9278cde2f59dbc3,-136.10968f,-97.12888f,MITxPRO+AMxB+1T2018,problem,436,778,2853,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Concept Questions-Question 2,11,12,23
+4d80bdddc8fe4cf4bf5c05efb70ad6a9,-175.12308f,-62.475338f,MITxPRO+AMxB+1T2018,problem,437,773,4481,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Concept Questions-Question 3,10,14,24
+3b8342fbe7e1473ba44ee109673c5f1c,-136.6308f,-28.179008f,MITxPRO+AMxB+1T2018,problem,438,767,3003,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Concept Questions-Question 4,10,10,20
+ef612a0ce30d4b788653a525216f7837,-88.06493f,-39.752827f,MITxPRO+AMxB+1T2018,problem,439,768,3475,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Concept Questions-Question 5,13,20,33
+a27e6ccbd699476c823afe67c91324cf,12.730719f,-144.53775f,MITxPRO+AMxB+1T2018,html,440,789,3266,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Generative Design at Autodesk-Html,19,29,48
+3a515431ad5d4619b97924675284a684,44.763588f,-109.49574f,MITxPRO+AMxB+1T2018,video,441,648,3369,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Generative Design at Autodesk-Generative Design at Autodesk ,8,7,15
+ad172c9eaecf4a59bba2238ca2bb3990,87.21743f,-146.4469f,MITxPRO+AMxB+1T2018,html,442,742,3166,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Advanced Topology Optimization for AM-Html,23,21,44
+b4b721ff8e98417a9ffd504f445c8998,87.88224f,-199.03154f,MITxPRO+AMxB+1T2018,video,443,650,5566,Weeks 4-5: Topology Optimization and Generative Design (2 hrs),Advanced Topology Optimization for AM-Advanced Topology Optimization for AM,6,10,16
+d9dd2a4989284d94b66c5a100745f102,145.83073f,-170.9139f,MITxPRO+AMxB+1T2018,html,444,793,2822,Weeks 4-5: Implementing DfAM (4 hrs),Introduction-Html,33,23,56
+4e7f6237dba14b9cabab572a9032820e,192.28069f,-191.64456f,MITxPRO+AMxB+1T2018,html,445,782,1947,Weeks 4-5: Implementing DfAM (4 hrs),Traditional Design for Manufacturing and Assembly (DFMA)-Html,11,11,22
+dfa2734715da48a083fe836252dac452,227.5279f,-211.26704f,MITxPRO+AMxB+1T2018,html,446,784,2115,Weeks 4-5: Implementing DfAM (4 hrs),The DfAM Innovation Process-Html,15,14,29
+6209866a51f94d1982106374115c7594,264.9177f,-239.86409f,MITxPRO+AMxB+1T2018,html,447,800,2520,Weeks 4-5: Implementing DfAM (4 hrs),The DfAM Cards-Html,21,33,54
+2850ec8902554b2db863515391feae48,1954.7732f,951.51996f,MITxPRO+AMxB+1T2018,html,448,6,13,Weeks 4-5: Implementing DfAM (4 hrs),The DfAM Cards-Html,0,0,0
+da48f27bea184b319bf8dc059138fbca,558.7608f,-160.57741f,MITxPRO+AMxB+1T2018,html,449,14,37,Weeks 4-5: Implementing DfAM (4 hrs),The DfAM Cards-Html,2,4,6
+61decba0ba3048cb9d65cb40780a72df,471.14355f,-31.108189f,MITxPRO+AMxB+1T2018,html,450,32,52,Weeks 4-5: Implementing DfAM (4 hrs),The DfAM Cards-Html,4,3,7
+8ecebe22b81a4779b6aa4c03baa79bb1,286.78766f,-282.63766f,MITxPRO+AMxB+1T2018,html,451,785,2188,Weeks 4-5: Implementing DfAM (4 hrs),The Rapid Innovation Cycle (RIC) Applied to AM-Html,13,22,35
+9c1bc5b9b4c244958983e8a5789f84ed,296.50858f,-323.33203f,MITxPRO+AMxB+1T2018,html,452,773,1862,Weeks 4-5: Implementing DfAM (4 hrs),Design Enablers and Design Inhibitors-Html,10,12,22
+6a1b1998400e4f52aa3d3768633a7dd5,302.96573f,-365.7314f,MITxPRO+AMxB+1T2018,html,453,769,2915,Weeks 4-5: Implementing DfAM (4 hrs),Summary and Key Takeaways-Html,11,13,24
+fe3586744a044afd9ae558cfbe4a9411,306.57162f,-417.75333f,MITxPRO+AMxB+1T2018,html,454,775,4237,Weeks 4-5: Implementing DfAM (4 hrs),Integrative Examples of DfAM in Practice-Html,31,33,64
+f9063cc6765a4fb3875172894b58c4af,341.34464f,-462.58206f,MITxPRO+AMxB+1T2018,video,455,666,5097,Weeks 4-5: Implementing DfAM (4 hrs),Integrative Examples of DfAM in Practice-Integrating AM Constraints with Topology Optimization,5,7,12
+88464dcb8fa64c5391ff18d5aec38bcc,381.77722f,-425.52765f,MITxPRO+AMxB+1T2018,video,456,644,3680,Weeks 4-5: Implementing DfAM (4 hrs),Integrative Examples of DfAM in Practice-Part Consolidation AM Design of a Hydraulic Manifold (Prof. TIm Simpson),16,17,33
+0704a9032b0b4dfebc92a428247b2a14,274.47906f,-597.283f,MITxPRO+AMxB+1T2018,html,457,887,18692,Weeks 4-5: Implementing DfAM (4 hrs),Instructions and Assignment-Html,246,204,450
+816859832b434afe828f482770a8052c,125.33042f,-749.47894f,MITxPRO+AMxB+1T2018,html,458,263,586,Weeks 4-5: Implementing DfAM (4 hrs),Instructions and Assignment-Html,18,18,36
+ea1d651f18c34e6fa36ee0f68962ecb9,416.04977f,-679.95654f,MITxPRO+AMxB+1T2018,openassessment,459,815,12834,Weeks 4-5: Implementing DfAM (4 hrs),Instructions and Assignment-Open Response Assessment,25,52,77
+e9bcc373b6ae4ec3abef5be040a02711,346.89792f,-873.49506f,MITxPRO+AMxB+1T2018,html,460,743,3172,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Introduction to the AM Knowledge Base-Html,39,44,83
+f5a6533820e946beacbefa8eb7a9c063,356.29907f,-1040.7079f,MITxPRO+AMxB+1T2018,html,461,583,2041,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Html,48,37,85
+2457ca92fb25476e889fb722e828987a,358.61096f,-1180.7819f,MITxPRO+AMxB+1T2018,video,462,275,3588,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Extrusion Materials,9,14,23
+c505ffe96440456486dad0a5e505231f,1347.56f,-1750.6484f,MITxPRO+AMxB+1T2018,html,463,25,36,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Html,3,3,6
+dd8ccb96b2cb40fc99395cd96e9f5597,359.60275f,-1226.1974f,MITxPRO+AMxB+1T2018,problem,464,253,1058,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Question 1,5,6,11
+aad3103495c442d7a88e613480c113d3,357.95422f,-1264.455f,MITxPRO+AMxB+1T2018,problem,465,236,1446,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Question 2,6,7,13
+a121f273f3a0475ab714564f42e222bb,356.78458f,-1303.9382f,MITxPRO+AMxB+1T2018,problem,466,222,980,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Question 3,7,6,13
+636c542d9ef64301a47a423dc61a2dae,344.81378f,-1337.3082f,MITxPRO+AMxB+1T2018,problem,467,217,832,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Question 4,5,5,10
+f2b4e39d15ec4701ba61cfb6420d3bc5,320.17825f,-1360.2406f,MITxPRO+AMxB+1T2018,problem,468,216,837,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials-Question 5,4,7,11
+1ff6b4f89e7f4b1dbdc83ee7f44f1acd,279.16544f,-1385.4249f,MITxPRO+AMxB+1T2018,html,469,401,919,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Html,15,16,31
+40a813ff85cf430899ae9357bd4ae06d,234.82596f,-1470.9943f,MITxPRO+AMxB+1T2018,video,470,189,2056,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Extrusion AM Process Physics,9,10,19
+9c6842c2104e49a7ba8b0d2ae99623e9,1436.0956f,-1309.9784f,MITxPRO+AMxB+1T2018,html,471,14,23,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Html,1,2,3
+87732893f89b43bfa01f9f06d032fdfe,201.76932f,-1494.4991f,MITxPRO+AMxB+1T2018,problem,472,185,627,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 1,3,6,9
+9aa67284e5fa4e3daa4b47b3e0edbcfd,178.3111f,-1515.1378f,MITxPRO+AMxB+1T2018,problem,473,178,546,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 2,3,4,7
+6cfa08b31fd941948e5f7255fa00c15d,156.70518f,-1537.3937f,MITxPRO+AMxB+1T2018,problem,474,172,531,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 3,5,4,9
+49707cf8378041adba03958bb60e676c,151.33443f,-1571.012f,MITxPRO+AMxB+1T2018,problem,475,174,665,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 4,7,6,13
+4819b3ef1f4346248137a7d03c756e5a,179.09944f,-1595.5393f,MITxPRO+AMxB+1T2018,problem,476,172,884,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 5,6,5,11
+3fa5fb770b184522992a7656974d5bbf,203.85242f,-1619.9557f,MITxPRO+AMxB+1T2018,problem,477,175,851,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 6,5,5,10
+b07167d3dc5f434ba6a47048048b6321,224.33742f,-1660.3268f,MITxPRO+AMxB+1T2018,html,478,359,727,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,14,12,26
+1cd3fafc354f493b87ca5888717410c6,-2065.7993f,1284.2189f,MITxPRO+AMxB+1T2018,html,479,6,8,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+1db3ec7343d947a6ab270af2a8871cb7,-2005.8976f,-921.20276f,MITxPRO+AMxB+1T2018,html,480,3,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+e2eb61c96ce34363a41b2936c1b67313,-1639.3036f,1571.6246f,MITxPRO+AMxB+1T2018,html,481,0,0,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+188b8870cb144c95b20d4a65b2931c45,-245.88467f,-1932.6349f,MITxPRO+AMxB+1T2018,html,482,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+cdd006fb180146468bd9a8b035143656,-2266.9087f,752.14404f,MITxPRO+AMxB+1T2018,html,483,2,2,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+e2afc470b1024fb48a8558391c05ad8a,-2253.5125f,984.1698f,MITxPRO+AMxB+1T2018,html,484,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,0,0
+45e15ef910dd4f72aacf8e48d238faa4,2123.546f,-1.9190531f,MITxPRO+AMxB+1T2018,html,485,4,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment and Process Metrics-Html,0,1,1
+8c4a58a7b5a2403196ecafec131b732a,214.91393f,-1708.901f,MITxPRO+AMxB+1T2018,html,486,336,713,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Html,9,13,22
+6b874330e7cd43fc95eb40b01f104fcd,296.6142f,-1987.428f,MITxPRO+AMxB+1T2018,video,487,146,1395,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Mechanical Properties,5,7,12
+6cd09877abad444ea784fd60e2143286,-1942.5422f,1409.1471f,MITxPRO+AMxB+1T2018,html,488,4,9,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Html,0,0,0
+29bb4a241e30431384a94c2e9373209c,-2251.383f,691.5313f,MITxPRO+AMxB+1T2018,html,489,5,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Html,0,0,0
+514b4b80f75b47efb0a5044a5dff6f02,297.0297f,-2039.9965f,MITxPRO+AMxB+1T2018,problem,490,138,630,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Question 1,4,4,8
+07610bb8d6904ca9b62459000553ee18,309.92502f,-2068.4585f,MITxPRO+AMxB+1T2018,problem,491,137,505,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Question 2,3,3,6
+a55170a392e84a1fba0e0d57d1de1e98,332.52078f,-2048.941f,MITxPRO+AMxB+1T2018,problem,492,138,497,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Mechanical Properties-Question 3,4,4,8
+5d86c9137fc74264a6f1644486662402,160.86644f,-1803.2903f,MITxPRO+AMxB+1T2018,html,493,321,577,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,8,8,16
+d0a1b8ad8c3447679659fb21534f6753,317.15222f,-2449.8906f,MITxPRO+AMxB+1T2018,html,494,6,12,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,1,2,3
+ed791190f0844f5bb153bfb96967d518,118.78881f,-1826.1017f,MITxPRO+AMxB+1T2018,html,495,354,755,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,18,16,34
+c7a55c2d904f4b8aaa08c674763cbfa8,2131.18f,135.7306f,MITxPRO+AMxB+1T2018,html,496,11,14,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,0,1,1
+fbeb2be95bdd409a8711eb8e56706fe1,21.926813f,-1894.6133f,MITxPRO+AMxB+1T2018,html,497,321,1106,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Summary and Emerging Technologies-Html,11,19,30
+5c59b11e8d4847a68a4443a434cf2f17,-28.059057f,-1935.2416f,MITxPRO+AMxB+1T2018,html,498,490,1523,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Html,39,34,73
+0a5bddc1df4b49cf9b4d4ff1d9638cdd,91.03999f,-2237.5728f,MITxPRO+AMxB+1T2018,video,499,179,1679,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Photopolymerization: Polymer Materials,11,10,21
+e76aa9491de94c3baaed161be2104fe4,418.73566f,-2185.3467f,MITxPRO+AMxB+1T2018,html,500,22,30,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Html,1,4,5
+86193d19360e4d1ba4d2a964185432c2,131.05597f,-2270.2095f,MITxPRO+AMxB+1T2018,problem,501,169,751,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Question 1,5,6,11
+d0ec956bd233479bb93664edfb8e1db9,145.57089f,-2301.6992f,MITxPRO+AMxB+1T2018,problem,502,168,676,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Question 2,4,5,9
+9231a448592847d9ac80a3bd679fa197,133.57942f,-2333.9124f,MITxPRO+AMxB+1T2018,problem,503,167,857,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Question 3,6,4,10
+c27a52d0b32041258bbde2b2c3f4bed3,99.75934f,-2341.174f,MITxPRO+AMxB+1T2018,problem,504,168,711,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Question 4,5,5,10
+cc54987f68af4caa9df3d330adde6008,66.63509f,-2326.3235f,MITxPRO+AMxB+1T2018,problem,505,166,843,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Mechanical Properties-Question 5,5,5,10
+888985adac714a9cb381313224764f28,-40.618282f,-2248.0354f,MITxPRO+AMxB+1T2018,html,506,351,726,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Html,21,14,35
+7398973828164aa58f9df6c44e23c217,-70.525444f,-2348.9924f,MITxPRO+AMxB+1T2018,video,507,153,1550,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Photopolymerization Process Physics,8,9,17
+780432713ec34113852a95a6d7fc279b,346.5905f,-2250.82f,MITxPRO+AMxB+1T2018,html,508,2,10,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Html,1,1,2
+d10c067d93114e3abcf011e40570c56b,-66.68355f,-2398.472f,MITxPRO+AMxB+1T2018,problem,509,143,700,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 1,4,6,10
+6571e88d2c4847c5bf2cfcb20ec3ff17,-55.02028f,-2434.714f,MITxPRO+AMxB+1T2018,problem,510,137,645,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 2,5,6,11
+908ba7011698409bb68d489054a09158,-19.512896f,-2442.5037f,MITxPRO+AMxB+1T2018,problem,511,134,586,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 3,6,4,10
+53c90ff59d9a4547a83ac4c27d6bc4c1,-6.886322f,-2409.2136f,MITxPRO+AMxB+1T2018,problem,512,132,809,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Physics-Question 4,5,5,10
+5622fd7038e945cfa1f8a70e3b908155,-45.564426f,-2200.2783f,MITxPRO+AMxB+1T2018,html,513,321,660,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,15,12,27
+c04c49faf1a549e19849053fbf0f22f3,-49.334385f,-2165.5164f,MITxPRO+AMxB+1T2018,video,514,138,615,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-SLA Machine Walkthrough,2,4,6
+b0f2dc89a77d4c5196c0be7d0ee97303,1630.1497f,-1444.3997f,MITxPRO+AMxB+1T2018,html,515,2,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+37ab6742b43f4da19e9acee12af0459e,-2133.9812f,-715.5553f,MITxPRO+AMxB+1T2018,html,516,0,0,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+095614d0a1e342a9883b30b0999b45ff,-2110.8394f,366.93292f,MITxPRO+AMxB+1T2018,html,517,2,2,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+9269d78b31de4957afa1c5a67f81edc1,-16.571657f,-2156.0374f,MITxPRO+AMxB+1T2018,html,518,312,615,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,8,9,17
+be912585563f44f3862d684867a40fff,-2199.0916f,469.8772f,MITxPRO+AMxB+1T2018,html,519,2,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+afd901e9caa3441fa29d0dce6aa45e47,-1258.1982f,1696.9508f,MITxPRO+AMxB+1T2018,html,520,3,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+3034ae6c80a540eaacf9b1ebab3a3b1f,27.15742f,-2111.2f,MITxPRO+AMxB+1T2018,html,521,381,863,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,19,20,39
+4c383fc635b34b5ebb175b1221abd424,-279.21487f,-2407.768f,MITxPRO+AMxB+1T2018,html,522,8,13,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,1,1,2
+e7abd2f43d3449158e43fe0b29547709,127.119606f,-2060.3752f,MITxPRO+AMxB+1T2018,html,523,320,1114,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,SLA of Metals and Ceramics-Html,12,18,30
+085d322fab7a4a70bb44caaf20312501,183.49565f,-2017.338f,MITxPRO+AMxB+1T2018,html,524,504,1793,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Html,45,38,83
+99042009daed49118fd9cfa1616859d1,405.46484f,-2246.3994f,MITxPRO+AMxB+1T2018,video,525,177,2063,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-SLS Materials and Process Physics,11,10,21
+03b3a59fd4b5420b8096f9a4f032651c,-363.2981f,-2205.8604f,MITxPRO+AMxB+1T2018,html,526,3,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Html,1,0,1
+311d1b2861e14e3f8bfaa7a9a5f13514,-2007.2343f,-961.62213f,MITxPRO+AMxB+1T2018,html,527,6,8,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Html,0,0,0
+ff2b962f52394cefacaaedf17cc229d8,1940.896f,1022.683f,MITxPRO+AMxB+1T2018,html,528,4,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Html,0,0,0
+83573e9d567b4ab8bd842c9b84cd51a3,-2110.5996f,342.24753f,MITxPRO+AMxB+1T2018,html,529,5,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Html,0,0,0
+54ba949f63764598b91a551847b7c4b8,426.45895f,-2294.9973f,MITxPRO+AMxB+1T2018,problem,530,176,642,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Question 1,5,5,10
+49f849dfacd34f6f8ab1f68cc43d6ac4,455.94385f,-2309.94f,MITxPRO+AMxB+1T2018,problem,531,167,658,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Question 2,3,5,8
+f498e09a4e0a498dbea450754af1ec6d,486.8148f,-2300.1843f,MITxPRO+AMxB+1T2018,problem,532,162,505,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Question 3,4,5,9
+eb0fb315a003433497afc0a6a235bd45,503.23148f,-2268.0479f,MITxPRO+AMxB+1T2018,problem,533,145,877,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Question 4,5,5,10
+99312d6169214c80abb0f1ff843af63c,504.89447f,-2230.6216f,MITxPRO+AMxB+1T2018,problem,534,145,676,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Materials and Process Physics-Question 5,6,7,13
+b8083104495b401ca2dbf89321e3ebbc,448.4876f,-2054.2537f,MITxPRO+AMxB+1T2018,html,535,365,905,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,High-Speed Sintering (HSS) and Multi-Jet Fusion (MJF)-Html,32,18,50
+b3cad7fcaa80421aaebb7ab0227fc650,498.627f,-2073.3328f,MITxPRO+AMxB+1T2018,video,536,135,1275,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,High-Speed Sintering (HSS) and Multi-Jet Fusion (MJF)-High-Speed Sintering,4,4,8
+dc0730f8e6454e15b38a77900bfd44e2,-1937.4747f,-744.316f,MITxPRO+AMxB+1T2018,html,537,6,10,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,High-Speed Sintering (HSS) and Multi-Jet Fusion (MJF)-Html,0,0,0
+b5766aa89ce14095a0bfbd7716a46483,516.3475f,-2044.1917f,MITxPRO+AMxB+1T2018,video,538,166,760,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,High-Speed Sintering (HSS) and Multi-Jet Fusion (MJF)-HP Multi-Jet Fusion Process,3,7,10
+ecff6625c4cb4231ab1992e5411e02e0,522.60114f,-2002.9172f,MITxPRO+AMxB+1T2018,html,539,318,701,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,10,10,20
+1009175442a64ccabbf501eaeaf11478,559.3619f,-2002.4847f,MITxPRO+AMxB+1T2018,video,540,117,653,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-SLS Machine Walkthrough,3,3,6
+6cf9b8c275cc47be88fbfb60256b04e2,1983.2949f,962.00885f,MITxPRO+AMxB+1T2018,html,541,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+5c4690d551344e22a8f9bdc3b520e288,1919.9071f,1080.9668f,MITxPRO+AMxB+1T2018,html,542,3,3,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+e43187f81add4f8485884604034df855,580.34784f,-1979.1252f,MITxPRO+AMxB+1T2018,video,543,128,608,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-MJF Machine Walkthrough,3,6,9
+c07d9d6470064625b9da3922c85d29b3,1876.9469f,1184.3413f,MITxPRO+AMxB+1T2018,html,544,4,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+d23d538bd3694cc6bbb62edb0f8e5c40,574.29706f,-1936.5111f,MITxPRO+AMxB+1T2018,html,545,319,671,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,13,8,21
+e5954595bfc54050acf59b57a9ac4abe,624.89874f,-1844.3761f,MITxPRO+AMxB+1T2018,html,546,375,1354,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,23,32,55
+3afe32e3c5f44b57b5f8967bc386bc1d,951.7883f,-999.2548f,MITxPRO+AMxB+1T2018,html,547,7,12,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,0,1,1
+50d4b24c0dfd4452a253ac7a61291669,716.90594f,-1741.3597f,MITxPRO+AMxB+1T2018,html,548,532,2094,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Html,61,39,100
+3f4d9d3d4a21425ca394a77702b35e54,791.15466f,-1757.5978f,MITxPRO+AMxB+1T2018,video,549,194,1891,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Powder Synthesis and Spreading Mechanics,4,7,11
+8df2479a8d624127a9c01240924b43ed,1318.7563f,-1782.9586f,MITxPRO+AMxB+1T2018,html,550,5,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Html,0,0,0
+9114308e9de24be39d6c642077e3805e,1684.1644f,-1370.9745f,MITxPRO+AMxB+1T2018,html,551,4,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Html,0,0,0
+a063f4538e8b46aabb433ddc9809b59e,1395.5066f,-2164.7434f,MITxPRO+AMxB+1T2018,html,552,4,11,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Html,0,2,2
+ffd56e2685e94bcdbcd34dea17b84fc6,1640.404f,-1410.1191f,MITxPRO+AMxB+1T2018,html,553,7,11,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Powders: Manufacturing and Key Characteristics-Html,0,0,0
+63d61e6c990142c99e30890b2f028da5,850.9558f,-1751.843f,MITxPRO+AMxB+1T2018,html,554,432,1069,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Html,16,21,37
+93f2cdec9c60406a809f36723d127f67,965.42523f,-1867.3304f,MITxPRO+AMxB+1T2018,video,555,148,1320,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Meltpool Formation and Stability,5,9,14
+56d9c79f7b3641bc9fbb3dafbbdd8e99,-2061.9385f,-792.94586f,MITxPRO+AMxB+1T2018,html,556,5,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Html,0,0,0
+0a0ab71ac1fd44deb00b8ce4a300af59,1858.8911f,1239.4883f,MITxPRO+AMxB+1T2018,html,557,6,10,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Html,0,0,0
+47f7183436de4aa29ee785125acbabf3,1042.4073f,-2177.2544f,MITxPRO+AMxB+1T2018,html,558,13,18,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Html,1,0,1
+6f1109a097a141e0b39a941ad74a8be3,1012.0677f,-1918.2112f,MITxPRO+AMxB+1T2018,problem,559,152,594,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Question 1,5,6,11
+a0fb917edc9b4d19a3459d96dd3263a8,1045.1914f,-1938.1268f,MITxPRO+AMxB+1T2018,problem,560,148,496,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Question 2,6,6,12
+7e01056268804026bc6e0ad2242feb70,1073.1171f,-1916.9176f,MITxPRO+AMxB+1T2018,problem,561,138,667,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Question 3,5,4,9
+c8bfb80f48a542c6a6d79fe3175636cd,1066.8258f,-1880.8912f,MITxPRO+AMxB+1T2018,problem,562,137,963,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Melt Pool Formation and Stability-Question 4,6,5,11
+ecbaf140af704a42a78099a2e680c946,956.4653f,-1708.2289f,MITxPRO+AMxB+1T2018,html,563,470,1261,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Html,32,22,54
+e1b5594c17ce45b5a419b1bd85d6e10f,1019.98944f,-1736.2728f,MITxPRO+AMxB+1T2018,video,564,187,2780,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Process Parameter Optimization,4,11,15
+92486feef1f34f64a6152824764e2135,-2165.1768f,445.44296f,MITxPRO+AMxB+1T2018,html,565,7,9,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Html,0,0,0
+5c8db020c34f4f3a918205556a4e73ca,1048.246f,815.8945f,MITxPRO+AMxB+1T2018,html,566,6,9,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Html,1,0,1
+c59e66fa3fdb47a592c7fd5e1d6df58c,1465.3141f,-2233.073f,MITxPRO+AMxB+1T2018,html,567,14,21,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Html,2,1,3
+32a7aaab9b1041bfa1844573c7ad9e5e,1209.5646f,-1937.9673f,MITxPRO+AMxB+1T2018,problem,568,119,411,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Question 1,4,5,9
+5472d00d73d14d75abad312961abe0b6,1241.7238f,-1952.0598f,MITxPRO+AMxB+1T2018,problem,569,116,388,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Question 2,5,4,9
+83d2b04747664f13b23ff5555cb69d73,1271.6245f,-1932.0582f,MITxPRO+AMxB+1T2018,problem,570,116,605,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Question 3,7,4,11
+d9f1ec6bc6044dd7a4261727bbb01a1a,1257.0996f,-1895.4801f,MITxPRO+AMxB+1T2018,problem,571,124,561,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Question 4,6,5,11
+55c33e0fc5174be3958758d8f96a4fcf,1234.7052f,-1866.127f,MITxPRO+AMxB+1T2018,problem,572,117,535,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Process Parameter Optimization-Question 5,4,6,10
+abd495a6f2e348afae1693f8b5b81259,966.99664f,-1636.4305f,MITxPRO+AMxB+1T2018,html,573,369,840,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,15,13,28
+8689cbf217ae4e668201e31c85744919,995.03424f,-1603.5936f,MITxPRO+AMxB+1T2018,video,574,112,516,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-SLM Machine Walkthrough,3,4,7
+949c7e164acb43188d7cb270d59fb305,-2155.461f,409.702f,MITxPRO+AMxB+1T2018,html,575,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+87cc87fa8d134b379bd72ceb0d3863d2,986.6577f,-1573.8573f,MITxPRO+AMxB+1T2018,video,576,101,392,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Quad-laser SLM system (Renishaw 5Q),3,3,6
+fcc9965abdab43b189f8bc1f28e9c7f0,502.50412f,-2172.3425f,MITxPRO+AMxB+1T2018,html,577,4,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Equipment-Html,0,0,0
+a67aaef4c52642538086867a9ff4ba99,931.96826f,-1527.1814f,MITxPRO+AMxB+1T2018,html,578,459,1182,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Materials, Microstructure, and Mechanical Properties-Html",24,22,46
+0f5113b5f04049f495578c458a032dd4,1387.1316f,-2317.6763f,MITxPRO+AMxB+1T2018,html,579,4,8,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Materials, Microstructure, and Mechanical Properties-Html",1,0,1
+02c1922963db4602bcd8eb9ddf730b86,-2205.2798f,548.23236f,MITxPRO+AMxB+1T2018,html,580,6,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Materials, Microstructure, and Mechanical Properties-Html",0,0,0
+3ce058e7f9b649c3961921a3b6175659,688.7327f,12.340476f,MITxPRO+AMxB+1T2018,html,581,12,16,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Materials, Microstructure, and Mechanical Properties-Html",1,2,3
+658f04ca188c4b5a8e0c08160fd3e59d,913.1204f,-1466.0642f,MITxPRO+AMxB+1T2018,html,582,462,1205,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,20,24,44
+376ab2558d6840b4b65bafeade17b077,-2042.5048f,-839.3857f,MITxPRO+AMxB+1T2018,html,583,5,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+18d99b14f8cb4290a54d630cfabc15a9,-1927.9633f,-1346.1123f,MITxPRO+AMxB+1T2018,html,584,2,2,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+be884bf9d0ff4ee9bed9298e948bcb6e,854.78723f,-2181.6587f,MITxPRO+AMxB+1T2018,html,585,3,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,1,0,1
+6d672d08da794867b9cf50897ab3bc0b,797.98804f,452.43753f,MITxPRO+AMxB+1T2018,html,586,10,18,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,1,1,2
+9affd8ec4e7c485fb104f5d2e6cf607c,1130.5066f,-547.5422f,MITxPRO+AMxB+1T2018,html,587,3,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+4c5566bb955b49dcbbc25482709cb77b,1270.3856f,-1132.005f,MITxPRO+AMxB+1T2018,html,588,8,13,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,1,1
+2aac69840d844b7a8cf6ce6fb6379776,-293.8569f,-2084.1746f,MITxPRO+AMxB+1T2018,html,589,7,11,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,0,0,0
+b1d57890863249fe8d6f597edbad4112,1060.4005f,-944.4826f,MITxPRO+AMxB+1T2018,html,590,20,27,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,3,3,6
+6c4de1af411a4fa49e43b982961edcab,876.7033f,-1379.6089f,MITxPRO+AMxB+1T2018,html,591,615,2437,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,45,54,99
+cb0c056dda254d9899f7baf8ab1786d3,738.57074f,-1388.5616f,MITxPRO+AMxB+1T2018,html,592,24,40,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,1,4,5
+8fa03b1b2994424a877f41676e31bb08,1122.7653f,-1332.3462f,MITxPRO+AMxB+1T2018,html,593,476,1949,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Electron Beam Melting-Html,48,49,97
+12566503221a4f0ba19bd6053bc64688,1186.3859f,-1289.1537f,MITxPRO+AMxB+1T2018,video,594,178,1900,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Electron Beam Melting-Electron Beam Melting,5,8,13
+befd748553b54479b588fd1a487376d2,2051.8567f,1320.1613f,MITxPRO+AMxB+1T2018,html,595,13,21,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Electron Beam Melting-Html,2,2,4
+d184eb6cc23a4ab8936c916e75363796,1220.546f,-1306.8386f,MITxPRO+AMxB+1T2018,video,596,123,518,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Electron Beam Melting-Beam Scan Patterns,5,5,10
+5903be23ba854b8aa1f21152e2a6c042,1521.505f,-1196.446f,MITxPRO+AMxB+1T2018,html,597,22,52,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Electron Beam Melting-Html,3,4,7
+8946402cfec84b0aa9abf2968a314b27,1273.535f,-1385.354f,MITxPRO+AMxB+1T2018,html,598,372,1149,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Html,31,29,60
+82e497984e324a83912ffd710e782888,1490.6211f,-1609.7753f,MITxPRO+AMxB+1T2018,video,599,130,1591,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Fundamentals of Jetting,7,9,16
+8573908c9cc34ce092611b98b3acd7cc,1419.2115f,-1390.3732f,MITxPRO+AMxB+1T2018,html,600,12,29,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Html,2,2,4
+5be83dfa36e0455eb6d2f6cda3cf785c,1571.6682f,-1714.2074f,MITxPRO+AMxB+1T2018,problem,601,97,479,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Question 1,4,5,9
+10deb3af4505487d8080932c5f5decd6,1603.9412f,-1742.5337f,MITxPRO+AMxB+1T2018,problem,602,100,327,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Question 2,4,6,10
+56154633f99c4b239ca677aa83e6f779,1642.4607f,-1755.543f,MITxPRO+AMxB+1T2018,problem,603,94,622,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Question 3,5,6,11
+07651fe1ae7b451d80e4442cb2e354fa,1671.2356f,-1729.5432f,MITxPRO+AMxB+1T2018,problem,604,91,521,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Question 4,5,4,9
+90b3423d3c364d0da3e75cb1e8761be7,1661.6482f,-1693.0432f,MITxPRO+AMxB+1T2018,problem,605,100,549,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Jetting Fundamentals-Question 5,6,4,10
+2f080c328b2c4f8abc4b57a6ce2c5896,1543.407f,-1496.5577f,MITxPRO+AMxB+1T2018,html,606,279,558,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Polymer Jetting Processes-Html,17,9,26
+cacd5806a9254245a8288ca2c82149d4,1573.8319f,-1515.016f,MITxPRO+AMxB+1T2018,video,607,109,976,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Polymer Jetting Processes-Polymer Jetting Processes,2,3,5
+752b8f758f9949609122b145aaf8026c,-2199.407f,227.26758f,MITxPRO+AMxB+1T2018,html,608,3,3,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Polymer Jetting Processes-Html,0,0,0
+f2e18386ea84488bbaea8b0fab66f2fb,-1993.3031f,-1038.7389f,MITxPRO+AMxB+1T2018,html,609,2,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Polymer Jetting Processes-Html,0,0,0
+ec129cda712c4184863c824e1ae76dea,810.0674f,-873.7791f,MITxPRO+AMxB+1T2018,html,610,6,18,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Polymer Jetting Processes-Html,1,1,2
+f1d1cf08839f4d9abcd0fb93a8253bc4,1587.1644f,-1483.8895f,MITxPRO+AMxB+1T2018,html,611,260,480,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Processing-Html,7,7,14
+a0d6d2f7082b4433804bd300cdc2ccd8,1628.0657f,-1466.1128f,MITxPRO+AMxB+1T2018,html,612,311,652,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,14,22,36
+70f84a2837ba43e294ec4cef93ed382e,2053.4348f,798.03076f,MITxPRO+AMxB+1T2018,html,613,5,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,0,0,0
+7475f0990c0f4eb29465ce90105f9e69,1725.5262f,-1459.203f,MITxPRO+AMxB+1T2018,html,614,261,502,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Html,11,14,25
+c53c2e3e79a7426f84607282fddb1844,977.453f,-1033.5614f,MITxPRO+AMxB+1T2018,html,615,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Html,0,0,0
+dd8fdb37f3ad414487bea545afa487d8,1864.1284f,-1559.5042f,MITxPRO+AMxB+1T2018,video,616,88,2216,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-noparticle Jetting,2,4,6
+696987b4520e4e7c85f0e740863d351d,1575.735f,-1481.8501f,MITxPRO+AMxB+1T2018,html,617,3,8,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Html,0,0,0
+bf7f403ebd4441fd9a2f8064346fccf1,-1977.3771f,1505.8793f,MITxPRO+AMxB+1T2018,html,618,0,0,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Html,0,0,0
+642a573fa1d847b68e92204efae1d23e,1895.31f,-1576.7297f,MITxPRO+AMxB+1T2018,video,619,80,375,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metal Jetting-Cup Print, Vader Systems",3,3,6
+f39cb1a4f1c64fb597f9dae126e75423,2034.6294f,840.70966f,MITxPRO+AMxB+1T2018,html,620,2,3,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Html,0,0,0
+19aca9d0d4a14ee797271d1d7587bdc5,1928.1802f,-1588.33f,MITxPRO+AMxB+1T2018,problem,621,93,564,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Question 1,4,3,7
+4e2d831a4cfd4277a447627ef1546e9c,1956.937f,-1575.2526f,MITxPRO+AMxB+1T2018,problem,622,90,480,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Question 2,3,3,6
+a057d1754a574e24a517ad3a5c3521dd,1954.4464f,-1544.2688f,MITxPRO+AMxB+1T2018,problem,623,90,587,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metal Jetting-Question 3,4,2,6
+530f8e802b434b9f80d949402ad1b53b,1848.164f,-1367.1339f,MITxPRO+AMxB+1T2018,html,624,254,824,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Advanced Multi-Material Jetting-Html,13,14,27
+36c1ef4d3d0244e8844d737b025506d9,1877.2352f,-1392.008f,MITxPRO+AMxB+1T2018,video,625,74,310,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Advanced Multi-Material Jetting-no Dimension: Printing PCBs,2,4,6
+b420a9b148994785be8c70e4eff19257,-2203.085f,521.3801f,MITxPRO+AMxB+1T2018,html,626,5,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Advanced Multi-Material Jetting-Html,0,0,0
+c0c126b664f740499c53acc71fe44eae,1876.3239f,-1303.163f,MITxPRO+AMxB+1T2018,html,627,337,990,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Html,38,27,65
+b95b5dc87768404ab420f58a3d444006,1995.6312f,-1304.7708f,MITxPRO+AMxB+1T2018,video,628,134,1148,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Forming the Powder Bed,6,6,12
+c23f9d01f9ae471e980994efd53cc80d,-2264.2092f,882.0801f,MITxPRO+AMxB+1T2018,html,629,4,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Html,0,0,0
+5b697dc5aa9842a6a03d73390d38e764,2038.0463f,-1303.0784f,MITxPRO+AMxB+1T2018,problem,630,113,507,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Question 1,6,5,11
+bcb52ae2899c48b9bbd36462b987cf44,2074.2192f,-1291.5073f,MITxPRO+AMxB+1T2018,problem,631,111,562,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Question 2,5,5,10
+9e14b249d0d84b409aec4e224cafa2e9,2078.4788f,-1324.0236f,MITxPRO+AMxB+1T2018,problem,632,113,532,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Forming the Powder Bed-Question 3,4,5,9
+fd55de7129e347ba9c4463f56efa7bcf,1974.6848f,-1212.7792f,MITxPRO+AMxB+1T2018,html,633,278,535,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Html,9,8,17
+724579c914a1436fa0dc7e966aca30a9,2044.7487f,-1184.7977f,MITxPRO+AMxB+1T2018,video,634,110,762,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Edge and Surface Definition,5,5,10
+2e42079b8deb46b4a324f2a03db149cf,1902.7352f,1114.1868f,MITxPRO+AMxB+1T2018,html,635,3,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Html,0,0,0
+dad57b82eca54fd7b977b3995c90e40b,2083.7612f,-1180.5939f,MITxPRO+AMxB+1T2018,problem,636,94,417,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Question 1,4,4,8
+48fcaa53ca4444b59b40c36e7eac7e3d,2105.2195f,-1153.1295f,MITxPRO+AMxB+1T2018,problem,637,95,550,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Question 2,5,4,9
+f620765a820c4c29af57f40a85058bf4,2075.7534f,-1135.4741f,MITxPRO+AMxB+1T2018,problem,638,94,448,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Edge and Surface Definition-Question 3,3,5,8
+84328e99640749658be2a3b14ca9c720,1966.0596f,-1137.0726f,MITxPRO+AMxB+1T2018,html,639,285,617,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Html,13,16,29
+ce5fe156d01c41e19ff8fc66e5f7a72e,1994.9813f,-1090.7076f,MITxPRO+AMxB+1T2018,video,640,110,986,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Steps After Printing,4,6,10
+0e1f570e96524c498e371f28eb466f68,2020.638f,876.20526f,MITxPRO+AMxB+1T2018,html,641,2,7,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Html,0,0,0
+4118b055966149a39a75274732e1cc8a,-1267.755f,1786.7001f,MITxPRO+AMxB+1T2018,html,642,9,17,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Html,0,0,0
+0913da88a4504d5997de9eea3701423b,2022.6683f,-1063.5724f,MITxPRO+AMxB+1T2018,problem,643,107,498,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Question 1,3,6,9
+752880a4b6da4613aff927b22fee1be4,2014.03f,-1029.317f,MITxPRO+AMxB+1T2018,problem,644,95,611,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Question 2,5,3,8
+f47d88f7197e45f2bd7488fd1e823fbb,1979.4924f,-1026.2123f,MITxPRO+AMxB+1T2018,problem,645,96,652,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Post-Printing and Sintering-Question 3,5,3,8
+d3c052893bbd4d22b0667ff609a93d46,1870.2247f,-1062.0485f,MITxPRO+AMxB+1T2018,html,646,324,767,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,19,25,44
+52e67051bad64f708e309aa17087e84f,1943.7244f,-885.4741f,MITxPRO+AMxB+1T2018,html,647,10,41,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Design Guidelines-Html,2,3,5
+d77d619ea3504014b454c5e1b3960386,1815.4192f,-1006.3781f,MITxPRO+AMxB+1T2018,html,648,275,549,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metals: Materials, Workflows, and Equipment-Html",9,9,18
+b430963fb31147f3aaf728ab46c45027,1550.5386f,-348.99893f,MITxPRO+AMxB+1T2018,html,649,2,5,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metals: Materials, Workflows, and Equipment-Html",0,0,0
+7732ffd94ba845c7bfa6b164ca2aafad,-1496.1545f,-1813.8827f,MITxPRO+AMxB+1T2018,html,650,1,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metals: Materials, Workflows, and Equipment-Html",0,0,0
+eac871e8f62149fbb630c0a65755cf8d,1351.5728f,-1751.4758f,MITxPRO+AMxB+1T2018,html,651,4,6,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metals: Materials, Workflows, and Equipment-Html",0,0,0
+c6febb8164444dbd9f26a9614c035387,722.23914f,325.98718f,MITxPRO+AMxB+1T2018,html,652,8,22,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Metals: Materials, Workflows, and Equipment-Html",0,2,2
+f6d13b3698b348978c8bde56acbc3562,1782.6477f,-972.1275f,MITxPRO+AMxB+1T2018,html,653,251,517,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metals: Microstructure and Mechanical Properties-Html,10,10,20
+70917ff5f205451bbe00c34f8ef51959,-1456.3248f,-1837.8864f,MITxPRO+AMxB+1T2018,html,654,1,10,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metals: Microstructure and Mechanical Properties-Html,0,0,0
+f300d911c7c34c43b93ae46533bb19e3,2132.833f,66.53862f,MITxPRO+AMxB+1T2018,html,655,5,12,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,Metals: Microstructure and Mechanical Properties-Html,1,1,2
+18e3b60d5cd7489685d7d9b6e28496ac,1633.4845f,-806.8419f,MITxPRO+AMxB+1T2018,html,656,278,899,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Html",11,15,26
+64854ea1eb6b4a59825255ce7ad2cb30,1958.0256f,335.57477f,MITxPRO+AMxB+1T2018,html,657,4,4,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Html",0,0,0
+a07594cb4b114730a915e3580c254f92,-1898.7727f,1483.9407f,MITxPRO+AMxB+1T2018,html,658,1,1,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Html",0,0,0
+67e86772bcd94ed3bc8edbe9f1cd7467,-365.55658f,-2050.4614f,MITxPRO+AMxB+1T2018,html,659,2,2,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Html",0,0,0
+f4000110adbf412384c7d6b535774017,1633.4744f,-846.25586f,MITxPRO+AMxB+1T2018,video,660,82,453,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Viridis3D: Robotic Binder Jetting",4,4,8
+dea15bc9bbfb4889a0bcd5abe7b21d33,1764.7881f,-775.96344f,MITxPRO+AMxB+1T2018,html,661,11,21,Weeks 4-5: AM Process Knowledge Base - SUPPLEMENTAL,"Sand: Materials, Workflows, and Equipment-Html",1,0,1
+abe4cc1d66054dddbf408d5043f2921b,1556.8423f,-670.21594f,MITxPRO+AMxB+1T2018,html,662,776,3238,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Cost and Value Analysis-Html,45,29,74
+6342707e62ff45b2a187ed067cb646a3,1608.5953f,-667.71136f,MITxPRO+AMxB+1T2018,video,663,725,4335,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Cost and Value Analysis-Cost and Value Alysis: Introduction ,10,8,18
+fee22a2f9dfa4fc5abd8a82aa14880ab,1602.8771f,-609.01056f,MITxPRO+AMxB+1T2018,html,664,792,3208,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Modeling the Cost of Injection Molding-Html,22,16,38
+732015d5737b41688cdcc6fb6fffae7c,1546.1312f,-587.51263f,MITxPRO+AMxB+1T2018,video,665,722,8406,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Modeling the Cost of Injection Molding-Modeling the Cost of Injection Molding,8,13,21
+72a0f3d8edc54e4696b1790f3e5f0836,1557.6122f,-1022.6912f,MITxPRO+AMxB+1T2018,html,666,21,24,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Modeling the Cost of Injection Molding-Html,3,2,5
+578c2b6ddddd4e34af9d122be164f33c,1635.8838f,-546.207f,MITxPRO+AMxB+1T2018,html,667,821,4145,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Framing the Cost of AM-Html,50,28,78
+eb4aca32cc664e2ab3c8ff92ac0bf578,1712.8027f,-559.3314f,MITxPRO+AMxB+1T2018,video,668,739,7169,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Framing the Cost of AM-Framing the Cost of AM,11,14,25
+4976c21077344f5d821ce0753143fcfd,2018.2097f,-678.3175f,MITxPRO+AMxB+1T2018,html,669,28,40,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Framing the Cost of AM-Html,3,4,7
+c0042f7d6c474938a3c148bd7327f564,1713.1505f,-612.43036f,MITxPRO+AMxB+1T2018,problem,670,789,2684,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Framing the Cost of AM-Question 1,8,5,13
+30872b6a5bee4e2f86d6f964a0e5d3f0,1671.2212f,-602.47015f,MITxPRO+AMxB+1T2018,problem,671,791,3547,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Framing the Cost of AM-Question 2,7,10,17
+d1676d2cecee4010a1bfe838e2e963e0,1653.6185f,-460.69138f,MITxPRO+AMxB+1T2018,html,672,828,4053,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),The MIT Cost Model-Html,57,39,96
+284121c6292646548b8d11d26466f6b1,1720.5125f,-422.34003f,MITxPRO+AMxB+1T2018,video,673,726,8498,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),The MIT Cost Model-Under the Hood of the MIT Cost Model,11,15,26
+ee7ce809211f46afb301095c84d929b4,2134.9487f,-482.19397f,MITxPRO+AMxB+1T2018,html,674,33,55,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),The MIT Cost Model-Html,6,5,11
+df2d2a812d1c48c1a5df73929df11cae,1678.4958f,-364.4469f,MITxPRO+AMxB+1T2018,html,675,817,3188,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Using the Cost Model-Html,25,36,61
+304929f50dfd453d9491eafee1e5d72a,2153.5425f,-362.77618f,MITxPRO+AMxB+1T2018,html,676,12,14,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Using the Cost Model-Html,1,1,2
+104ab9aff6ea49c0979a84363490fa7c,2279.1042f,-483.65567f,MITxPRO+AMxB+1T2018,html,677,16,23,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Using the Cost Model-Html,2,3,5
+d6ee604711fa4b1cbf8dee302a14ce5c,1333.0974f,-543.068f,MITxPRO+AMxB+1T2018,html,678,41,63,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Using the Cost Model-Html,6,5,11
+915635f353604d5b93702e095abc84c5,1682.4191f,-299.36728f,MITxPRO+AMxB+1T2018,html,679,812,4637,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Html,39,37,76
+ff73702131d54ec09850f59896e5bb5b,1520.8497f,-361.23877f,MITxPRO+AMxB+1T2018,html,680,80,147,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Html,6,7,13
+4003daa3870a412991535f06b519393b,1758.5491f,-305.1252f,MITxPRO+AMxB+1T2018,problem,681,709,3939,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Question 1,12,13,25
+c1122deeb2054701b18e043764535747,1807.807f,-297.9545f,MITxPRO+AMxB+1T2018,problem,682,683,2937,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Question 2,11,11,22
+e0fe5e4d05384ba7b7c8edc2af1dea3d,1831.029f,-252.1741f,MITxPRO+AMxB+1T2018,problem,683,702,4076,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Question 3,12,13,25
+0d05ee4b348f479293d6143d99f9cf17,1806.1863f,-203.59698f,MITxPRO+AMxB+1T2018,problem,684,663,3494,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Question 4,12,14,26
+dd2e225706cb4e44a7fef817b25fc695,1755.9458f,-222.41168f,MITxPRO+AMxB+1T2018,problem,685,701,3697,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Concept Questions-Question 5,13,16,29
+2aed08cdf76c457d88c9e15470bd6585,1648.8119f,-242.14845f,MITxPRO+AMxB+1T2018,html,686,751,2649,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),"Performance, Price and Profit-Html",31,25,56
+b33b5d7fb4c34f4a99ab89958231e6da,1587.6384f,-198.82434f,MITxPRO+AMxB+1T2018,html,687,704,2645,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Value-Driven Use Cases-Html,13,16,29
+ad4973be70874ac29ab940d3daf0b901,1603.775f,-154.92542f,MITxPRO+AMxB+1T2018,video,688,572,4015,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Value-Driven Use Cases-Framing the Value of AM,8,11,19
+c0f6f8693dbd46ba96c1bc9976c1de72,2245.0493f,-209.57214f,MITxPRO+AMxB+1T2018,html,689,28,34,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Value-Driven Use Cases-Html,4,3,7
+25ccb56ad1774291928821d83ae7fa42,1922.5612f,1048.7899f,MITxPRO+AMxB+1T2018,discussion,690,2,2,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Value-Driven Use Cases-Discussion,0,0,0
+30d4df2662fd487f82332252c61625f0,1549.0881f,-176.06252f,MITxPRO+AMxB+1T2018,html,691,697,1942,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Cost and Value Scenarios-Html,16,18,34
+5d25f47bb9c74cf8a309f72faacee512,1498.475f,-156.74063f,MITxPRO+AMxB+1T2018,html,692,686,1437,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Lightweighting of an Aircraft Component-Html,11,15,26
+770aa6c9505b452ea81c6678cce7c399,1461.9983f,-143.6971f,MITxPRO+AMxB+1T2018,html,693,674,1267,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),AM-Produced Mold Tooling-Html,8,9,17
+532b0d7d15354e319d58e8cf25fedeeb,1427.9578f,-132.00336f,MITxPRO+AMxB+1T2018,html,694,671,1244,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),AM-Produced Jigs and Fixtures-Html,8,10,18
+a34a3bda017e4e77a3acc638059aedc2,1385.6785f,-116.7798f,MITxPRO+AMxB+1T2018,html,695,664,2168,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Part Consolidation-Html,9,11,20
+d42aec80f3c1448680ab4dc52e06d244,1342.8097f,-102.28351f,MITxPRO+AMxB+1T2018,html,696,687,2998,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Perspectives on Full-System Value-Html,17,23,40
+ab7506a0f34f4a4fb4dd4b40dbb25465,1375.9559f,-67.17307f,MITxPRO+AMxB+1T2018,video,697,530,2864,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Perspectives on Full-System Value-AM for Supply Chain Transformation,6,6,12
+5ae7b68dc9744a5884c22160bc8c133c,1338.0851f,-46.68658f,MITxPRO+AMxB+1T2018,video,698,510,3124,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Perspectives on Full-System Value-Capturing Full System Economics with AM,11,11,22
+1c264c5f7377466b9165af2037ec7924,1231.236f,-65.27736f,MITxPRO+AMxB+1T2018,html,699,854,9515,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Instructions and Assignment-Html,129,101,230
+66062755e4fd44e988f9260830023061,1089.3372f,-166.49782f,MITxPRO+AMxB+1T2018,html,700,235,451,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Instructions and Assignment-Html,11,14,25
+a122be78c0d543548d7ba0efee3b9203,1083.813f,36.081337f,MITxPRO+AMxB+1T2018,openassessment,701,681,24153,Week 6: Assessing the Cost and Value of Additive Manufacturing (5 hrs),Instructions and Assignment-Open Response Assessment,68,92,160
+0e9814b3e2a94eddae75b154afe501f3,1287.4977f,274.0218f,MITxPRO+AMxB+1T2018,html,702,686,3318,Week 7 & 8 - Case Studies Instructions,Instructions-Html,48,25,73
+66e3bd0917b64e4e96809be332b6d1a2,1294.7438f,358.48157f,MITxPRO+AMxB+1T2018,html,703,843,8380,Week 7: Strategy and Operations Case Study ï¿½ Part I (5 hrs),Instructions and Assignment-Html,86,80,166
+894b7805c53e43eeb36ea338bf21fccd,1152.8824f,409.9956f,MITxPRO+AMxB+1T2018,html,704,156,338,Week 7: Strategy and Operations Case Study ï¿½ Part I (5 hrs),Instructions and Assignment-Html,10,11,21
+504d2512a7124c439fd2861dbf720058,1249.2845f,432.3653f,MITxPRO+AMxB+1T2018,openassessment,705,364,4544,Week 7: Strategy and Operations Case Study ï¿½ Part I (5 hrs),Instructions and Assignment-Open Response Assessment,10,24,34
+744dad1a12a449ebbfc22c507e1e0e1f,1365.9315f,470.21356f,MITxPRO+AMxB+1T2018,html,706,773,6940,"Weeks 7: Design Case Study Option I, Generative Design of a Bracket ï¿½ Part I (5 hrs)",Instructions and Assignment-Html,62,62,124
+c31fb3fb9d2345daa85acc888c3a7722,1284.9744f,585.27954f,MITxPRO+AMxB+1T2018,html,707,153,376,"Weeks 7: Design Case Study Option I, Generative Design of a Bracket ï¿½ Part I (5 hrs)",Instructions and Assignment-Html,12,10,22
+c3a17ced051f48f9aecf9ed2dba5040e,1349.344f,541.63354f,MITxPRO+AMxB+1T2018,openassessment,708,361,4481,"Weeks 7: Design Case Study Option I, Generative Design of a Bracket ï¿½ Part I (5 hrs)",Instructions and Assignment-Open Response Assessment,9,22,31
+fd91554a3bf54ebdbf6ea67124fbd06c,1435.2029f,525.65656f,MITxPRO+AMxB+1T2018,html,709,704,4390,"Week 7: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part I CAD Required (5 hrs)",Instructions and Assignment-Html,28,39,67
+805062b8b4664ff098462ad506b43de9,1406.4431f,647.8131f,MITxPRO+AMxB+1T2018,html,710,103,271,"Week 7: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part I CAD Required (5 hrs)",Instructions and Assignment-Html,8,10,18
+7713838e40dc441cb6c177b4812abb79,1447.7633f,601.93475f,MITxPRO+AMxB+1T2018,openassessment,711,71,869,"Week 7: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part I CAD Required (5 hrs)",Instructions and Assignment-Open Response Assessment,7,9,16
+b87d7692f55a4b3fb61ec362d003f121,1567.2955f,599.31464f,MITxPRO+AMxB+1T2018,html,712,643,3966,Week 8: Strategy and Operations Case Study ï¿½ Part II (5 hrs),Instructions and Assignment-Html,54,49,103
+fcdcf1b84b5142cf842ab7f38837e052,1565.2677f,714.7102f,MITxPRO+AMxB+1T2018,html,713,135,302,Week 8: Strategy and Operations Case Study ï¿½ Part II (5 hrs),Instructions and Assignment-Html,9,11,20
+eb5dc0dcd2b344bf93cda555d263d213,1607.2603f,648.0144f,MITxPRO+AMxB+1T2018,openassessment,714,312,3660,Week 8: Strategy and Operations Case Study ï¿½ Part II (5 hrs),Instructions and Assignment-Open Response Assessment,8,15,23
+d5834a3d440842cfb49bd2ae4155ce16,1713.8368f,595.9329f,MITxPRO+AMxB+1T2018,html,715,653,3816,"Week 8: Design Case Study Option I, Generative Design of a Bracket Case Study ï¿½ Part II (5 hrs)",Instructions and Assignment-Html,52,48,100
+ae627b44a7064a9e985818bca3168aca,1818.8898f,479.333f,MITxPRO+AMxB+1T2018,html,716,108,209,"Week 8: Design Case Study Option I, Generative Design of a Bracket Case Study ï¿½ Part II (5 hrs)",Instructions and Assignment-Html,10,11,21
+b17ad3fc44b54920af496b56db8954da,1773.0106f,599.02386f,MITxPRO+AMxB+1T2018,openassessment,717,304,3575,"Week 8: Design Case Study Option I, Generative Design of a Bracket Case Study ï¿½ Part II (5 hrs)",Instructions and Assignment-Open Response Assessment,8,19,27
+1dc93dd0b4a4496884b7a642e928e9d2,1852.7327f,620.0527f,MITxPRO+AMxB+1T2018,html,718,481,1908,"Week 8: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part II (5 hrs)",Instructions and Assignment-Html,21,29,50
+fdf8793f40514f5eb52be78683cd15f5,2031.9478f,461.5539f,MITxPRO+AMxB+1T2018,html,719,40,70,"Week 8: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part II (5 hrs)",Instructions and Assignment-Html,3,5,8
+134da9dee6614b159e933f632fc9246b,1907.0283f,620.44824f,MITxPRO+AMxB+1T2018,openassessment,720,57,619,"Week 8: Design Case Study Option II, Part Consolidation of a Duct ï¿½ Part II (5 hrs)",Instructions and Assignment-Open Response Assessment,6,5,11
+a0764fe284df432a93f3c3633162d815,1986.2489f,647.95416f,MITxPRO+AMxB+1T2018,html,721,627,1396,Week 9: The Future of Production (3 hrs),Course Recap-Html,31,19,50
+ae7628ec83c642eaa51e2b9daabc5f97,2085.6511f,665.3478f,MITxPRO+AMxB+1T2018,video,722,502,2539,Week 9: The Future of Production (3 hrs),Course Recap-Course Recap,4,7,11
+990e9e1eaae34af38fd128bd3924a3c0,2319.4475f,454.73544f,MITxPRO+AMxB+1T2018,html,723,26,44,Week 9: The Future of Production (3 hrs),Course Recap-Html,3,4,7
+49ae4fed6c184199bd02484d214fab98,2128.3074f,676.67584f,MITxPRO+AMxB+1T2018,html,724,588,1685,Week 9: The Future of Production (3 hrs),Where Is AM Headed?-Html,11,10,21
+51998570743849d09c8854a35fd0e899,2156.7336f,650.3441f,MITxPRO+AMxB+1T2018,video,725,501,2732,Week 9: The Future of Production (3 hrs),Where Is AM Headed?-Course Conclusion,7,7,14
+5fc036d992354184aea63c6a2b129671,2163.8562f,694.29803f,MITxPRO+AMxB+1T2018,html,726,581,1153,Week 9: The Future of Production (3 hrs),Introduction-Html,17,12,29
+6223568957ad410cb2ab109abb9d7af1,2203.2886f,720.00305f,MITxPRO+AMxB+1T2018,html,727,571,1012,Week 9: The Future of Production (3 hrs),ASTM Standards for AM-Html,13,10,23
+c19b76c838684b42a5ad229ce72f2e95,2239.4946f,736.07794f,MITxPRO+AMxB+1T2018,video,728,465,2498,Week 9: The Future of Production (3 hrs),ASTM Standards for AM-John Slotwinski: Standards for AM,6,9,15
+7f8714239b3e42749cc5e54064cdf33b,2473.5608f,640.76105f,MITxPRO+AMxB+1T2018,html,729,18,27,Week 9: The Future of Production (3 hrs),ASTM Standards for AM-Html,2,3,5
+75fdee1a2b714e34bdfdbc1a138d443f,2244.0305f,773.71967f,MITxPRO+AMxB+1T2018,html,730,552,926,Week 9: The Future of Production (3 hrs),Quick-Turn Contract Manufacturing-Html,9,5,14
+0120d60dd7c74a658f369244cc09a745,2261.3647f,804.86053f,MITxPRO+AMxB+1T2018,video,731,432,2096,Week 9: The Future of Production (3 hrs),Quick-Turn Contract Manufacturing-AM at Protolabs: Rob Bodor,5,6,11
+af0046c8954e4c4dacf9446dd407d0f6,2260.3213f,845.30365f,MITxPRO+AMxB+1T2018,html,732,543,1758,Week 9: The Future of Production (3 hrs),Energy and Environmental Implications of AM-Html,11,14,25
+6864be53ce914d5c9666940de4b4c76d,2296.4553f,859.098f,MITxPRO+AMxB+1T2018,video,733,416,2090,Week 9: The Future of Production (3 hrs),Energy and Environmental Implications of AM-Energy Implications of AM: Tim Gutowski,4,8,12
+50b25bb6e39e44a2a311ac540922368d,-2241.3804f,630.1821f,MITxPRO+AMxB+1T2018,html,734,5,7,Week 9: The Future of Production (3 hrs),Energy and Environmental Implications of AM-Html,0,0,0
+23ee5c05f2474a96bf9b25af9326021e,2398.4968f,854.49695f,MITxPRO+AMxB+1T2018,html,735,29,34,Week 9: The Future of Production (3 hrs),Energy and Environmental Implications of AM-Html,3,2,5
+c7d10458ce5c441b91376c56d31caab3,1936.1515f,-1056.1191f,MITxPRO+AMxB+1T2018,discussion,736,0,0,Week 9: The Future of Production (3 hrs),Energy and Environmental Implications of AM-Discussion,0,0,0
+3300940085ca4f1fba64869b88a8bd3c,2254.3645f,884.81116f,MITxPRO+AMxB+1T2018,html,737,542,1336,Week 9: The Future of Production (3 hrs),Envisioning the Digitization of Production-Html,15,16,31
+f779419e25ff4add883ded2b21d75e8a,-1963.8652f,-1151.2748f,MITxPRO+AMxB+1T2018,discussion,738,0,0,Week 9: The Future of Production (3 hrs),Envisioning the Digitization of Production-Discussion,0,0,0
+68b3713115dd4c98b9624b7acaf64860,2226.377f,915.4257f,MITxPRO+AMxB+1T2018,html,739,512,860,Week 9: The Future of Production (3 hrs),Perspectives on Digitally-Driven Design-Html,10,7,17
+fd9acf9edc0841dd8604ad25eec01a33,2206.5283f,945.84814f,MITxPRO+AMxB+1T2018,video,740,396,2283,Week 9: The Future of Production (3 hrs),Perspectives on Digitally-Driven Design-Perspectives on the Future of Design,4,6,10
+d75c5a25b091478d9e5fdf297101562d,2171.6912f,954.1122f,MITxPRO+AMxB+1T2018,html,741,503,828,Week 9: The Future of Production (3 hrs),Perspectives on the Future Factory-Html,8,6,14
+97e4ffb46b44490381f4085e55333027,2139.8254f,970.6291f,MITxPRO+AMxB+1T2018,video,742,381,2151,Week 9: The Future of Production (3 hrs),Perspectives on the Future Factory-Perspectives on the Factory of the Future,5,6,11
+84d243bffac44731944ef5f1c914bd2c,2099.8213f,971.00635f,MITxPRO+AMxB+1T2018,html,743,508,1524,Week 9: The Future of Production (3 hrs),Emerging Business Models-Html,10,10,20
+583b77e74455472aa7d00ccb022c2204,2217.3652f,1112.5251f,MITxPRO+AMxB+1T2018,html,744,21,41,Week 9: The Future of Production (3 hrs),Emerging Business Models-Html,3,3,6
+036087245479445c8bb27b527a458c34,-410.97913f,-2068.8696f,MITxPRO+AMxB+1T2018,discussion,745,0,0,Week 9: The Future of Production (3 hrs),Emerging Business Models-Discussion,0,0,0
+59621af3ee024470b827995528789ecc,-2232.5513f,700.8899f,MITxPRO+AMxB+1T2018,video,746,0,0,Week 9: The Future of Production (3 hrs),<title unclear>-Video,0,0,0
+1dfa19e8aed54c5ea2ff7ea7a6b0368e,1247.0875f,-1811.007f,MITxPRO+AMxB+1T2018,video,747,0,0,Week 9: The Future of Production (3 hrs),Vectors for AM Deployment-hq part 1,0,0,0
+04917f61a8594cddb0849008803f37aa,-1168.8279f,-2038.1896f,MITxPRO+AMxB+1T2018,video,748,0,0,Week 9: The Future of Production (3 hrs),Lighthouse Projects-hq part 2,0,0,0
+b3ae041c932a45f7b2140aa1385086fc,-1857.0863f,1496.0497f,MITxPRO+AMxB+1T2018,video,749,0,0,Week 9: The Future of Production (3 hrs),Developing an Additive Mindset-hq part 4,0,0,0
+bfdcc71b035149749d2febc1609b36b7,2061.0662f,970.2458f,MITxPRO+AMxB+1T2018,html,750,572,1604,Week 9: The Future of Production (3 hrs),Connecting with MIT-Html,16,13,29
+5b42266d225e4a83bcf7833af7143417,2011.4489f,958.13806f,MITxPRO+AMxB+1T2018,html,751,560,1739,Week 9: The Future of Production (3 hrs),Further Resources-Html,8,12,20
+253c3d95e42f47a192997f25c3fd5881,1966.0756f,939.8226f,MITxPRO+AMxB+1T2018,html,752,788,2567,Week 9: The Future of Production (3 hrs),Assignment and Instructions-Html,42,37,79
+7d262be6d9b74836b47447db1b70289d,1903.4788f,957.3185f,MITxPRO+AMxB+1T2018,problem,753,774,4682,Week 9: The Future of Production (3 hrs),Graded Assignment Completion Confirmation-Confirmation,15,44,59
