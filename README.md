@@ -1,4 +1,4 @@
-# EdX Learner Pathway Modeling: Using K-Medoid Clustering and Long Short-term Memory Networks
+# EdX Learner Pathway Modeling: Applications of K-Medoid Clustering and Long Short-term Memory Network Models
 
 To clone the repository:
 
