@@ -1,4 +1,4 @@
-# Applications of unsupervised learning on learner pathways: Using long short-term memory networks to model learner pathways
+# EdX Learner Pathway Modeling: Using K-Medoid Clustering and Long Short-term Memory Networks
 
 To clone the repository:
 
