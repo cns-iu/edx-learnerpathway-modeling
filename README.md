@@ -3,7 +3,7 @@
 To clone the repository:
 
 ```
-git clone https://github.com/mginda/edx-learnerpathway-modeling.git
+git clone https://github.com/cns-iu/edx-learnerpathway-modeling.git
 
 ```
 ## Model Overview
